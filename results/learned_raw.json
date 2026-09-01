@@ -1,0 +1,6372 @@
+[
+ {
+  "reference": "nat:astronaut",
+  "condition": "perfect_copy",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "blank_canvas",
+  "ink_density": 0.1280670166015625,
+  "lpips": 1.057668685913086,
+  "dists": 0.7633242607116699
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "wrong_drawing",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.7368072867393494,
+  "dists": 0.35034239292144775
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "random_scribble",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.693489670753479,
+  "dists": 0.4291025400161743
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "shift_1px",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.0947667583823204,
+  "dists": 0.08325356245040894
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "shift_2px",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.10653820633888245,
+  "dists": 0.09274160861968994
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "shift_5px",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.20379897952079773,
+  "dists": 0.12191158533096313
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "shift_10px",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.35060226917266846,
+  "dists": 0.15111660957336426
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "rotate_1deg",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.09134616702795029,
+  "dists": 0.09257328510284424
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "rotate_2deg",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.12411198019981384,
+  "dists": 0.11895632743835449
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "rotate_5deg",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.2448633909225464,
+  "dists": 0.18541395664215088
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "drop_25pct",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.1311546415090561,
+  "dists": 0.20981073379516602
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "drop_50pct",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.2940959334373474,
+  "dists": 0.3437843918800354
+ },
+ {
+  "reference": "nat:astronaut",
+  "condition": "drop_75pct",
+  "ink_density": 0.1280670166015625,
+  "lpips": 0.4486800730228424,
+  "dists": 0.47842860221862793
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "perfect_copy",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "blank_canvas",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.8666303753852844,
+  "dists": 0.6472048163414001
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "wrong_drawing",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.6986305713653564,
+  "dists": 0.2860366106033325
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "random_scribble",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.6766295433044434,
+  "dists": 0.324505090713501
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "shift_1px",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.08254226297140121,
+  "dists": 0.07596719264984131
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "shift_2px",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.09636873751878738,
+  "dists": 0.07950663566589355
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "shift_5px",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.17972370982170105,
+  "dists": 0.10160189867019653
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "shift_10px",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.33021655678749084,
+  "dists": 0.1160203218460083
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "rotate_1deg",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.07338307797908783,
+  "dists": 0.07425934076309204
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "rotate_2deg",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.10382139682769775,
+  "dists": 0.08440971374511719
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "rotate_5deg",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.20559051632881165,
+  "dists": 0.13341164588928223
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "drop_25pct",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.08949573338031769,
+  "dists": 0.15664249658584595
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "drop_50pct",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.19208645820617676,
+  "dists": 0.24544966220855713
+ },
+ {
+  "reference": "nat:camera",
+  "condition": "drop_75pct",
+  "ink_density": 0.060943603515625,
+  "lpips": 0.2849120497703552,
+  "dists": 0.3852439522743225
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "perfect_copy",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "blank_canvas",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.8739148378372192,
+  "dists": 0.6514925360679626
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "random_scribble",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.6909776926040649,
+  "dists": 0.3616420030593872
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "shift_1px",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.08086224645376205,
+  "dists": 0.07951194047927856
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "shift_2px",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.09765658527612686,
+  "dists": 0.09473103284835815
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "shift_5px",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.19085058569908142,
+  "dists": 0.12249577045440674
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "shift_10px",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.3348774313926697,
+  "dists": 0.13365775346755981
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.06724666804075241,
+  "dists": 0.07328855991363525
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.1020098552107811,
+  "dists": 0.10088062286376953
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.19901975989341736,
+  "dists": 0.14957177639007568
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "drop_25pct",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.10487771034240723,
+  "dists": 0.1558297872543335
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "drop_50pct",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.24415576457977295,
+  "dists": 0.26932770013809204
+ },
+ {
+  "reference": "nat:cat",
+  "condition": "drop_75pct",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.34697604179382324,
+  "dists": 0.36155229806900024
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "perfect_copy",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "blank_canvas",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.8739148378372192,
+  "dists": 0.6514925360679626
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.7616990804672241,
+  "dists": 0.597497820854187
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "random_scribble",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.6525343656539917,
+  "dists": 0.35526686906814575
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "shift_1px",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.08086224645376205,
+  "dists": 0.07951194047927856
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "shift_2px",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.09765658527612686,
+  "dists": 0.09473103284835815
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "shift_5px",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.19085058569908142,
+  "dists": 0.12249577045440674
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "shift_10px",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.3348774313926697,
+  "dists": 0.13365775346755981
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.06724666804075241,
+  "dists": 0.07328855991363525
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.1020098552107811,
+  "dists": 0.10088062286376953
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.19901975989341736,
+  "dists": 0.14957177639007568
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "drop_25pct",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.10936927050352097,
+  "dists": 0.17601031064987183
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "drop_50pct",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.24272644519805908,
+  "dists": 0.26127076148986816
+ },
+ {
+  "reference": "nat:chelsea",
+  "condition": "drop_75pct",
+  "ink_density": 0.0643310546875,
+  "lpips": 0.3312339782714844,
+  "dists": 0.3720617890357971
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "perfect_copy",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "blank_canvas",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.34098020195961,
+  "dists": 0.2884756922721863
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.818956732749939,
+  "dists": 0.669264018535614
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "random_scribble",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.46277594566345215,
+  "dists": 0.2541229724884033
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "shift_1px",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.03105139173567295,
+  "dists": 0.07829225063323975
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "shift_2px",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.04246402904391289,
+  "dists": 0.06999015808105469
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "shift_5px",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.08215680718421936,
+  "dists": 0.08934718370437622
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "shift_10px",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.16966360807418823,
+  "dists": 0.07345068454742432
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.006258704233914614,
+  "dists": 0.009932875633239746
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.016437456011772156,
+  "dists": 0.043000757694244385
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.03377524018287659,
+  "dists": 0.0879858136177063
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "drop_25pct",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.04245719313621521,
+  "dists": 0.09885042905807495
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "drop_50pct",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.07466524839401245,
+  "dists": 0.13098984956741333
+ },
+ {
+  "reference": "nat:clock",
+  "condition": "drop_75pct",
+  "ink_density": 0.0025482177734375,
+  "lpips": 0.10824045538902283,
+  "dists": 0.19065457582473755
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "perfect_copy",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "blank_canvas",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.9369614124298096,
+  "dists": 0.7099772691726685
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.666437029838562,
+  "dists": 0.3695031404495239
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "random_scribble",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.6324533820152283,
+  "dists": 0.34697234630584717
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "shift_1px",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.07506165653467178,
+  "dists": 0.07501614093780518
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "shift_2px",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.09094136208295822,
+  "dists": 0.0875319242477417
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "shift_5px",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.19021478295326233,
+  "dists": 0.1179729700088501
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "shift_10px",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.3341284692287445,
+  "dists": 0.13570010662078857
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.06656251847743988,
+  "dists": 0.0655907392501831
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.09394453465938568,
+  "dists": 0.10171401500701904
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.1866350620985031,
+  "dists": 0.16498148441314697
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "drop_25pct",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.12084666639566422,
+  "dists": 0.16933631896972656
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "drop_50pct",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.27425530552864075,
+  "dists": 0.27401530742645264
+ },
+ {
+  "reference": "nat:coffee",
+  "condition": "drop_75pct",
+  "ink_density": 0.0859832763671875,
+  "lpips": 0.4296536445617676,
+  "dists": 0.42029285430908203
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "perfect_copy",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "blank_canvas",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.933302104473114,
+  "dists": 0.6789820790290833
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "wrong_drawing",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.6958653330802917,
+  "dists": 0.48760557174682617
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "random_scribble",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.6741648316383362,
+  "dists": 0.4194678068161011
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "shift_1px",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.06610499322414398,
+  "dists": 0.08035886287689209
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "shift_2px",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.08165032416582108,
+  "dists": 0.08914792537689209
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "shift_5px",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.19175146520137787,
+  "dists": 0.12136173248291016
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "shift_10px",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.36269307136535645,
+  "dists": 0.14791136980056763
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "rotate_1deg",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.07234830409288406,
+  "dists": 0.08985817432403564
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "rotate_2deg",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.09804049134254456,
+  "dists": 0.1115485429763794
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "rotate_5deg",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.2093663364648819,
+  "dists": 0.16257381439208984
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "drop_25pct",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.07871472835540771,
+  "dists": 0.1936289668083191
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "drop_50pct",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.20114998519420624,
+  "dists": 0.2984015941619873
+ },
+ {
+  "reference": "nat:coins",
+  "condition": "drop_75pct",
+  "ink_density": 0.1004791259765625,
+  "lpips": 0.3162173926830292,
+  "dists": 0.4323993921279907
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "perfect_copy",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "blank_canvas",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.7657073736190796,
+  "dists": 0.6033735871315002
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "wrong_drawing",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.644364058971405,
+  "dists": 0.4101698398590088
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "random_scribble",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.6068922281265259,
+  "dists": 0.32078421115875244
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "shift_1px",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.06801251322031021,
+  "dists": 0.07189291715621948
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "shift_2px",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.09657471626996994,
+  "dists": 0.07917928695678711
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "shift_5px",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.17743618786334991,
+  "dists": 0.10476267337799072
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "shift_10px",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.32886961102485657,
+  "dists": 0.1174006462097168
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "rotate_1deg",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.06247464939951897,
+  "dists": 0.08379971981048584
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "rotate_2deg",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.09898871183395386,
+  "dists": 0.11118793487548828
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "rotate_5deg",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.19467724859714508,
+  "dists": 0.15027070045471191
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "drop_25pct",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.13943429291248322,
+  "dists": 0.15382027626037598
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "drop_50pct",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.23026402294635773,
+  "dists": 0.2328891158103943
+ },
+ {
+  "reference": "nat:horse",
+  "condition": "drop_75pct",
+  "ink_density": 0.02606201171875,
+  "lpips": 0.36053600907325745,
+  "dists": 0.3389350175857544
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "perfect_copy",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "blank_canvas",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.633306086063385,
+  "dists": 0.4772151708602905
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "wrong_drawing",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.8262194395065308,
+  "dists": 0.44090038537979126
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "random_scribble",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.6680919528007507,
+  "dists": 0.3354319930076599
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "shift_1px",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.05879170447587967,
+  "dists": 0.0537571907043457
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "shift_2px",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.08443892002105713,
+  "dists": 0.06908702850341797
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "shift_5px",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.1585659235715866,
+  "dists": 0.08989012241363525
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "shift_10px",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.27857735753059387,
+  "dists": 0.10889840126037598
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "rotate_1deg",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.054776448756456375,
+  "dists": 0.06221836805343628
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "rotate_2deg",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.09146787971258163,
+  "dists": 0.07770532369613647
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "rotate_5deg",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.18232035636901855,
+  "dists": 0.10553038120269775
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "drop_25pct",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.04137703403830528,
+  "dists": 0.06816381216049194
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "drop_50pct",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.0926077663898468,
+  "dists": 0.16457390785217285
+ },
+ {
+  "reference": "nat:moon",
+  "condition": "drop_75pct",
+  "ink_density": 0.011688232421875,
+  "lpips": 0.1264823079109192,
+  "dists": 0.2568289637565613
+ },
+ {
+  "reference": "nat:page",
+  "condition": "perfect_copy",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:page",
+  "condition": "blank_canvas",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.9877080917358398,
+  "dists": 0.5392265319824219
+ },
+ {
+  "reference": "nat:page",
+  "condition": "wrong_drawing",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.8733149170875549,
+  "dists": 0.4462739825248718
+ },
+ {
+  "reference": "nat:page",
+  "condition": "random_scribble",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.8094396591186523,
+  "dists": 0.4019777178764343
+ },
+ {
+  "reference": "nat:page",
+  "condition": "shift_1px",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.1039523333311081,
+  "dists": 0.07450783252716064
+ },
+ {
+  "reference": "nat:page",
+  "condition": "shift_2px",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.11006602644920349,
+  "dists": 0.07894653081893921
+ },
+ {
+  "reference": "nat:page",
+  "condition": "shift_5px",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.19193348288536072,
+  "dists": 0.1192215085029602
+ },
+ {
+  "reference": "nat:page",
+  "condition": "shift_10px",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.31099849939346313,
+  "dists": 0.15196967124938965
+ },
+ {
+  "reference": "nat:page",
+  "condition": "rotate_1deg",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.07987271249294281,
+  "dists": 0.06273216009140015
+ },
+ {
+  "reference": "nat:page",
+  "condition": "rotate_2deg",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.1045418381690979,
+  "dists": 0.09020042419433594
+ },
+ {
+  "reference": "nat:page",
+  "condition": "rotate_5deg",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.18439045548439026,
+  "dists": 0.15987157821655273
+ },
+ {
+  "reference": "nat:page",
+  "condition": "drop_25pct",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.06628312915563583,
+  "dists": 0.16435420513153076
+ },
+ {
+  "reference": "nat:page",
+  "condition": "drop_50pct",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.14056159555912018,
+  "dists": 0.26017022132873535
+ },
+ {
+  "reference": "nat:page",
+  "condition": "drop_75pct",
+  "ink_density": 0.1161041259765625,
+  "lpips": 0.2592642307281494,
+  "dists": 0.32860851287841797
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "perfect_copy",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "blank_canvas",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.7390282154083252,
+  "dists": 0.6270858645439148
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "wrong_drawing",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.761508584022522,
+  "dists": 0.4026299715042114
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "random_scribble",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.7213420867919922,
+  "dists": 0.3939828872680664
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "shift_1px",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.09718143194913864,
+  "dists": 0.07815670967102051
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "shift_2px",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.11166232079267502,
+  "dists": 0.07631170749664307
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "shift_5px",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.2138545662164688,
+  "dists": 0.11440873146057129
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "shift_10px",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.33421361446380615,
+  "dists": 0.13389527797698975
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "rotate_1deg",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.073501817882061,
+  "dists": 0.07887530326843262
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "rotate_2deg",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.11072109639644623,
+  "dists": 0.0946192741394043
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "rotate_5deg",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.2100072056055069,
+  "dists": 0.1514885425567627
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "drop_25pct",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.08265508711338043,
+  "dists": 0.14802563190460205
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "drop_50pct",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.1673431396484375,
+  "dists": 0.26433056592941284
+ },
+ {
+  "reference": "nat:rocket",
+  "condition": "drop_75pct",
+  "ink_density": 0.042755126953125,
+  "lpips": 0.2236967533826828,
+  "dists": 0.36488306522369385
+ },
+ {
+  "reference": "nat:text",
+  "condition": "perfect_copy",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:text",
+  "condition": "blank_canvas",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.9315541386604309,
+  "dists": 0.6442000865936279
+ },
+ {
+  "reference": "nat:text",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.7812482714653015,
+  "dists": 0.42805689573287964
+ },
+ {
+  "reference": "nat:text",
+  "condition": "random_scribble",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.6420783400535583,
+  "dists": 0.31806135177612305
+ },
+ {
+  "reference": "nat:text",
+  "condition": "shift_1px",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.07128091156482697,
+  "dists": 0.055158793926239014
+ },
+ {
+  "reference": "nat:text",
+  "condition": "shift_2px",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.09325891733169556,
+  "dists": 0.06482261419296265
+ },
+ {
+  "reference": "nat:text",
+  "condition": "shift_5px",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.19554606080055237,
+  "dists": 0.10715413093566895
+ },
+ {
+  "reference": "nat:text",
+  "condition": "shift_10px",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.3370043635368347,
+  "dists": 0.1339300274848938
+ },
+ {
+  "reference": "nat:text",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.08808229118585587,
+  "dists": 0.07402491569519043
+ },
+ {
+  "reference": "nat:text",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.1240287646651268,
+  "dists": 0.09260702133178711
+ },
+ {
+  "reference": "nat:text",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.2431717813014984,
+  "dists": 0.1529773473739624
+ },
+ {
+  "reference": "nat:text",
+  "condition": "drop_25pct",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.11458925157785416,
+  "dists": 0.14694297313690186
+ },
+ {
+  "reference": "nat:text",
+  "condition": "drop_50pct",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.26253122091293335,
+  "dists": 0.25404393672943115
+ },
+ {
+  "reference": "nat:text",
+  "condition": "drop_75pct",
+  "ink_density": 0.0795440673828125,
+  "lpips": 0.3727889955043793,
+  "dists": 0.3571040630340576
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "perfect_copy",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "blank_canvas",
+  "ink_density": 0.14178466796875,
+  "lpips": 1.0973291397094727,
+  "dists": 0.613030195236206
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "wrong_drawing",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.9798293709754944,
+  "dists": 0.4688428044319153
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "random_scribble",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.6917911767959595,
+  "dists": 0.35261958837509155
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "shift_1px",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.11962836235761642,
+  "dists": 0.11535000801086426
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "shift_2px",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.1346772164106369,
+  "dists": 0.1344996690750122
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "shift_5px",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.21729546785354614,
+  "dists": 0.18751955032348633
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "shift_10px",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.26333847641944885,
+  "dists": 0.2109154462814331
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "rotate_1deg",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.12275922298431396,
+  "dists": 0.10834848880767822
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "rotate_2deg",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.17365582287311554,
+  "dists": 0.14592844247817993
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "rotate_5deg",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.2802204489707947,
+  "dists": 0.2115861177444458
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "drop_25pct",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.2511914372444153,
+  "dists": 0.2504624128341675
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "drop_50pct",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.4568222761154175,
+  "dists": 0.34290337562561035
+ },
+ {
+  "reference": "nat:brick",
+  "condition": "drop_75pct",
+  "ink_density": 0.14178466796875,
+  "lpips": 0.6459083557128906,
+  "dists": 0.4065288305282593
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "perfect_copy",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "blank_canvas",
+  "ink_density": 0.353118896484375,
+  "lpips": 1.394522786140442,
+  "dists": 0.6049593687057495
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "wrong_drawing",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.22425509989261627,
+  "dists": 0.21327424049377441
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "random_scribble",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.5260757207870483,
+  "dists": 0.42100685834884644
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "shift_1px",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.13399118185043335,
+  "dists": 0.11510413885116577
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "shift_2px",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.1171329915523529,
+  "dists": 0.15097534656524658
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "shift_5px",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.14515694975852966,
+  "dists": 0.18907225131988525
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "shift_10px",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.18523730337619781,
+  "dists": 0.2133404016494751
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "rotate_1deg",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.12039849907159805,
+  "dists": 0.10539740324020386
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "rotate_2deg",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.1285097301006317,
+  "dists": 0.14486175775527954
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "rotate_5deg",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.15115220844745636,
+  "dists": 0.21594375371932983
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "drop_25pct",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.09454406797885895,
+  "dists": 0.18322831392288208
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "drop_50pct",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.17839157581329346,
+  "dists": 0.28237152099609375
+ },
+ {
+  "reference": "nat:grass",
+  "condition": "drop_75pct",
+  "ink_density": 0.353118896484375,
+  "lpips": 0.31288257241249084,
+  "dists": 0.37053728103637695
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "perfect_copy",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "blank_canvas",
+  "ink_density": 0.335906982421875,
+  "lpips": 1.3993017673492432,
+  "dists": 0.5910228490829468
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "wrong_drawing",
+  "ink_density": 0.335906982421875,
+  "lpips": 1.320904016494751,
+  "dists": 0.5751783847808838
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "random_scribble",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.51136314868927,
+  "dists": 0.3940606117248535
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "shift_1px",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.14352142810821533,
+  "dists": 0.10590457916259766
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "shift_2px",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.15801912546157837,
+  "dists": 0.13868772983551025
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "shift_5px",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.16927696764469147,
+  "dists": 0.18089163303375244
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "shift_10px",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.20884543657302856,
+  "dists": 0.20901763439178467
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "rotate_1deg",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.14236627519130707,
+  "dists": 0.09811019897460938
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "rotate_2deg",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.1500428020954132,
+  "dists": 0.1455291509628296
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "rotate_5deg",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.1706329882144928,
+  "dists": 0.21181249618530273
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "drop_25pct",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.11625015735626221,
+  "dists": 0.223457932472229
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "drop_50pct",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.21169470250606537,
+  "dists": 0.3079388737678528
+ },
+ {
+  "reference": "nat:gravel",
+  "condition": "drop_75pct",
+  "ink_density": 0.335906982421875,
+  "lpips": 0.3376869857311249,
+  "dists": 0.3800588846206665
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "perfect_copy",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "blank_canvas",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.2323259562253952,
+  "dists": 0.37873733043670654
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "wrong_drawing",
+  "ink_density": 0.003387451171875,
+  "lpips": 1.1200579404830933,
+  "dists": 0.6215465068817139
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "random_scribble",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.4433431029319763,
+  "dists": 0.25698649883270264
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "shift_1px",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.01116076111793518,
+  "dists": 0.05180037021636963
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "shift_2px",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.01632324978709221,
+  "dists": 0.06407558917999268
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "shift_5px",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.041569195687770844,
+  "dists": 0.07875919342041016
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "shift_10px",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.09500695765018463,
+  "dists": 0.08805358409881592
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "rotate_1deg",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.01131322979927063,
+  "dists": 0.059174418449401855
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "rotate_2deg",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.017805641517043114,
+  "dists": 0.08687901496887207
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "rotate_5deg",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.03446684405207634,
+  "dists": 0.09970438480377197
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "drop_25pct",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.016222596168518066,
+  "dists": 0.07619422674179077
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "drop_50pct",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.03230046108365059,
+  "dists": 0.12360155582427979
+ },
+ {
+  "reference": "nat:cell",
+  "condition": "drop_75pct",
+  "ink_density": 0.003387451171875,
+  "lpips": 0.06295616179704666,
+  "dists": 0.2320185899734497
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "perfect_copy",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "blank_canvas",
+  "ink_density": 0.22357177734375,
+  "lpips": 1.2137326002120972,
+  "dists": 0.6667225360870361
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "wrong_drawing",
+  "ink_density": 0.22357177734375,
+  "lpips": 1.038818359375,
+  "dists": 0.5583176612854004
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "random_scribble",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.5990424156188965,
+  "dists": 0.3708205819129944
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "shift_1px",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.14924126863479614,
+  "dists": 0.09079945087432861
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "shift_2px",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.16034699976444244,
+  "dists": 0.11179804801940918
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "shift_5px",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.2233453392982483,
+  "dists": 0.1446407437324524
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "shift_10px",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.2983415126800537,
+  "dists": 0.16796612739562988
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "rotate_1deg",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.1439807265996933,
+  "dists": 0.09508997201919556
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "rotate_2deg",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.16903917491436005,
+  "dists": 0.11102724075317383
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "rotate_5deg",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.23659296333789825,
+  "dists": 0.16443002223968506
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "drop_25pct",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.1399710327386856,
+  "dists": 0.2051461935043335
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "drop_50pct",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.286882221698761,
+  "dists": 0.3207179307937622
+ },
+ {
+  "reference": "nat:immunohistochemistry",
+  "condition": "drop_75pct",
+  "ink_density": 0.22357177734375,
+  "lpips": 0.4213101267814636,
+  "dists": 0.4149901866912842
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "perfect_copy",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "blank_canvas",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.6241421699523926,
+  "dists": 0.5039088726043701
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.6349382400512695,
+  "dists": 0.2900612950325012
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "random_scribble",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.5743263959884644,
+  "dists": 0.25704842805862427
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "shift_1px",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.05242222920060158,
+  "dists": 0.07491880655288696
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "shift_2px",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.07137288898229599,
+  "dists": 0.07949984073638916
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "shift_5px",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.16537262499332428,
+  "dists": 0.10201048851013184
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "shift_10px",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.3270849287509918,
+  "dists": 0.10920727252960205
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.05015960708260536,
+  "dists": 0.07071107625961304
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.07428354024887085,
+  "dists": 0.09867203235626221
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.14349308609962463,
+  "dists": 0.13793832063674927
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "drop_25pct",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.0886085033416748,
+  "dists": 0.11253046989440918
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "drop_50pct",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.1742991805076599,
+  "dists": 0.16001105308532715
+ },
+ {
+  "reference": "nat:retina0",
+  "condition": "drop_75pct",
+  "ink_density": 0.0164947509765625,
+  "lpips": 0.2631201148033142,
+  "dists": 0.27736204862594604
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "perfect_copy",
+  "ink_density": 0.01513671875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "blank_canvas",
+  "ink_density": 0.01513671875,
+  "lpips": 0.5758131146430969,
+  "dists": 0.541420578956604
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "wrong_drawing",
+  "ink_density": 0.01513671875,
+  "lpips": 0.6357638239860535,
+  "dists": 0.3034881353378296
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "random_scribble",
+  "ink_density": 0.01513671875,
+  "lpips": 0.5459556579589844,
+  "dists": 0.27240169048309326
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "shift_1px",
+  "ink_density": 0.01513671875,
+  "lpips": 0.025596890598535538,
+  "dists": 0.04585897922515869
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "shift_2px",
+  "ink_density": 0.01513671875,
+  "lpips": 0.04168500006198883,
+  "dists": 0.0724061131477356
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "shift_5px",
+  "ink_density": 0.01513671875,
+  "lpips": 0.0825047492980957,
+  "dists": 0.10688191652297974
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "shift_10px",
+  "ink_density": 0.01513671875,
+  "lpips": 0.15486083924770355,
+  "dists": 0.12422609329223633
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "rotate_1deg",
+  "ink_density": 0.01513671875,
+  "lpips": 0.038208674639463425,
+  "dists": 0.0781559944152832
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "rotate_2deg",
+  "ink_density": 0.01513671875,
+  "lpips": 0.05583552271127701,
+  "dists": 0.11463940143585205
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "rotate_5deg",
+  "ink_density": 0.01513671875,
+  "lpips": 0.12233561277389526,
+  "dists": 0.16734766960144043
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "drop_25pct",
+  "ink_density": 0.01513671875,
+  "lpips": 0.0700320154428482,
+  "dists": 0.13926297426223755
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "drop_50pct",
+  "ink_density": 0.01513671875,
+  "lpips": 0.16053345799446106,
+  "dists": 0.20492535829544067
+ },
+ {
+  "reference": "nat:retina1",
+  "condition": "drop_75pct",
+  "ink_density": 0.01513671875,
+  "lpips": 0.2225995659828186,
+  "dists": 0.3061983585357666
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "perfect_copy",
+  "ink_density": 0.007568359375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "blank_canvas",
+  "ink_density": 0.007568359375,
+  "lpips": 0.34425026178359985,
+  "dists": 0.48852646350860596
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "wrong_drawing",
+  "ink_density": 0.007568359375,
+  "lpips": 0.4505104720592499,
+  "dists": 0.314708948135376
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "random_scribble",
+  "ink_density": 0.007568359375,
+  "lpips": 0.5566611886024475,
+  "dists": 0.2797508239746094
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "shift_1px",
+  "ink_density": 0.007568359375,
+  "lpips": 0.016296986490488052,
+  "dists": 0.04580128192901611
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "shift_2px",
+  "ink_density": 0.007568359375,
+  "lpips": 0.024062739685177803,
+  "dists": 0.06714797019958496
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "shift_5px",
+  "ink_density": 0.007568359375,
+  "lpips": 0.04106113314628601,
+  "dists": 0.0989999771118164
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "shift_10px",
+  "ink_density": 0.007568359375,
+  "lpips": 0.08626098185777664,
+  "dists": 0.11908823251724243
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "rotate_1deg",
+  "ink_density": 0.007568359375,
+  "lpips": 0.02066165581345558,
+  "dists": 0.06697553396224976
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "rotate_2deg",
+  "ink_density": 0.007568359375,
+  "lpips": 0.03023022972047329,
+  "dists": 0.10159176588058472
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "rotate_5deg",
+  "ink_density": 0.007568359375,
+  "lpips": 0.07167309522628784,
+  "dists": 0.16853731870651245
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "drop_25pct",
+  "ink_density": 0.007568359375,
+  "lpips": 0.03363828361034393,
+  "dists": 0.14285600185394287
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "drop_50pct",
+  "ink_density": 0.007568359375,
+  "lpips": 0.08133508265018463,
+  "dists": 0.2125229835510254
+ },
+ {
+  "reference": "nat:retina2",
+  "condition": "drop_75pct",
+  "ink_density": 0.007568359375,
+  "lpips": 0.11183002591133118,
+  "dists": 0.2911330461502075
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "perfect_copy",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "blank_canvas",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.32322603464126587,
+  "dists": 0.3930656909942627
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.7329427003860474,
+  "dists": 0.5145360827445984
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "random_scribble",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.5985991954803467,
+  "dists": 0.2946590185165405
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "shift_1px",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.017330201342701912,
+  "dists": 0.06980299949645996
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "shift_2px",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.02620416134595871,
+  "dists": 0.07721930742263794
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "shift_5px",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.07932092249393463,
+  "dists": 0.10202300548553467
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "shift_10px",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.176433727145195,
+  "dists": 0.12431526184082031
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.015804585069417953,
+  "dists": 0.06501400470733643
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.02278103679418564,
+  "dists": 0.09058576822280884
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.07043135911226273,
+  "dists": 0.13891923427581787
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "drop_25pct",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.048082999885082245,
+  "dists": 0.07181209325790405
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "drop_50pct",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.07905858010053635,
+  "dists": 0.12135493755340576
+ },
+ {
+  "reference": "nat:retina3",
+  "condition": "drop_75pct",
+  "ink_density": 0.0070648193359375,
+  "lpips": 0.12211298942565918,
+  "dists": 0.22101449966430664
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "perfect_copy",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "blank_canvas",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.8306275606155396,
+  "dists": 0.5482053756713867
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.41620326042175293,
+  "dists": 0.15281450748443604
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "random_scribble",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.671650230884552,
+  "dists": 0.39882612228393555
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "shift_1px",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.08542340993881226,
+  "dists": 0.06475907564163208
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "shift_2px",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.1035953089594841,
+  "dists": 0.07929325103759766
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "shift_5px",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.20083993673324585,
+  "dists": 0.11225557327270508
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "shift_10px",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.30740225315093994,
+  "dists": 0.14690297842025757
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.08406876772642136,
+  "dists": 0.07081323862075806
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.11550741642713547,
+  "dists": 0.09610581398010254
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.2059268355369568,
+  "dists": 0.12353867292404175
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "drop_25pct",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.06928408145904541,
+  "dists": 0.11442667245864868
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "drop_50pct",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.14007462561130524,
+  "dists": 0.20996743440628052
+ },
+ {
+  "reference": "nat:hubble_deep_field0",
+  "condition": "drop_75pct",
+  "ink_density": 0.0455780029296875,
+  "lpips": 0.23634293675422668,
+  "dists": 0.310202956199646
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "perfect_copy",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "blank_canvas",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.8378893136978149,
+  "dists": 0.551284670829773
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.3864172697067261,
+  "dists": 0.15323299169540405
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "random_scribble",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.6500019431114197,
+  "dists": 0.40553200244903564
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "shift_1px",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.09574466943740845,
+  "dists": 0.0704907774925232
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "shift_2px",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.11437331885099411,
+  "dists": 0.08958643674850464
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "shift_5px",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.19911479949951172,
+  "dists": 0.12110722064971924
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "shift_10px",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.28552839159965515,
+  "dists": 0.15334582328796387
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.09063048660755157,
+  "dists": 0.06706666946411133
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.1265813708305359,
+  "dists": 0.09059381484985352
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.2111915647983551,
+  "dists": 0.1258653998374939
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "drop_25pct",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.06757721304893494,
+  "dists": 0.11771059036254883
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "drop_50pct",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.15718163549900055,
+  "dists": 0.2110496163368225
+ },
+ {
+  "reference": "nat:hubble_deep_field1",
+  "condition": "drop_75pct",
+  "ink_density": 0.0399017333984375,
+  "lpips": 0.2504337430000305,
+  "dists": 0.3181041479110718
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "perfect_copy",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "blank_canvas",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.8138637542724609,
+  "dists": 0.5510551929473877
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.36935052275657654,
+  "dists": 0.16132843494415283
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "random_scribble",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.6557564735412598,
+  "dists": 0.41396886110305786
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "shift_1px",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.08982568979263306,
+  "dists": 0.06985533237457275
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "shift_2px",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.1155824363231659,
+  "dists": 0.08990299701690674
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "shift_5px",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.19238992035388947,
+  "dists": 0.12323451042175293
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "shift_10px",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.28018346428871155,
+  "dists": 0.15818369388580322
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.08314968645572662,
+  "dists": 0.0703350305557251
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.11587624251842499,
+  "dists": 0.09955465793609619
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.19278155267238617,
+  "dists": 0.14160317182540894
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "drop_25pct",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.06692172586917877,
+  "dists": 0.12575912475585938
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "drop_50pct",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.15487752854824066,
+  "dists": 0.22169137001037598
+ },
+ {
+  "reference": "nat:hubble_deep_field2",
+  "condition": "drop_75pct",
+  "ink_density": 0.0432891845703125,
+  "lpips": 0.2692246437072754,
+  "dists": 0.32845789194107056
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "perfect_copy",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "blank_canvas",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.8413625955581665,
+  "dists": 0.5540428757667542
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "wrong_drawing",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.6969801783561707,
+  "dists": 0.5375050902366638
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "random_scribble",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.650180459022522,
+  "dists": 0.39209437370300293
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "shift_1px",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.09922347962856293,
+  "dists": 0.06901109218597412
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "shift_2px",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.11855681985616684,
+  "dists": 0.08823728561401367
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "shift_5px",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.21017608046531677,
+  "dists": 0.13058286905288696
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "shift_10px",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.3128237724304199,
+  "dists": 0.15812093019485474
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "rotate_1deg",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.09461446106433868,
+  "dists": 0.07006925344467163
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "rotate_2deg",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.12433043867349625,
+  "dists": 0.09909200668334961
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "rotate_5deg",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.21315504610538483,
+  "dists": 0.14096581935882568
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "drop_25pct",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.06938599795103073,
+  "dists": 0.1115034818649292
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "drop_50pct",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.1591091901063919,
+  "dists": 0.22126543521881104
+ },
+ {
+  "reference": "nat:hubble_deep_field3",
+  "condition": "drop_75pct",
+  "ink_density": 0.048248291015625,
+  "lpips": 0.2863595485687256,
+  "dists": 0.32385170459747314
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "perfect_copy",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "blank_canvas",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.5716971158981323,
+  "dists": 0.44762152433395386
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "wrong_drawing",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.5075752139091492,
+  "dists": 0.28673064708709717
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "random_scribble",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.5602602362632751,
+  "dists": 0.2115495204925537
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "shift_1px",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.030462773516774178,
+  "dists": 0.05722510814666748
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "shift_2px",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.04544372484087944,
+  "dists": 0.07234847545623779
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "shift_5px",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.10251469910144806,
+  "dists": 0.08179104328155518
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "shift_10px",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.223167285323143,
+  "dists": 0.08507764339447021
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "rotate_1deg",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.02111506275832653,
+  "dists": 0.047569453716278076
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "rotate_2deg",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.03729744255542755,
+  "dists": 0.09428757429122925
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "rotate_5deg",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.06795909255743027,
+  "dists": 0.13084179162979126
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "drop_25pct",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.0889897495508194,
+  "dists": 0.11792975664138794
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "drop_50pct",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.13305991888046265,
+  "dists": 0.1730862259864807
+ },
+ {
+  "reference": "syn:0_00",
+  "condition": "drop_75pct",
+  "ink_density": 0.006744384765625,
+  "lpips": 0.19192656874656677,
+  "dists": 0.26136571168899536
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "perfect_copy",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "blank_canvas",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.4180753827095032,
+  "dists": 0.43510282039642334
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "wrong_drawing",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.41685232520103455,
+  "dists": 0.32127469778060913
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "random_scribble",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.4822879433631897,
+  "dists": 0.2917405366897583
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "shift_1px",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.019644638523459435,
+  "dists": 0.06040775775909424
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "shift_2px",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.032176513224840164,
+  "dists": 0.0689312219619751
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "shift_5px",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.08691827207803726,
+  "dists": 0.07964509725570679
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "shift_10px",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.15178175270557404,
+  "dists": 0.08285117149353027
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "rotate_1deg",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.009594673290848732,
+  "dists": 0.03042769432067871
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "rotate_2deg",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.013059748336672783,
+  "dists": 0.04250216484069824
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "rotate_5deg",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.016620390117168427,
+  "dists": 0.07508325576782227
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "drop_25pct",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.05247582122683525,
+  "dists": 0.11767268180847168
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "drop_50pct",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.10622897744178772,
+  "dists": 0.1750483512878418
+ },
+ {
+  "reference": "syn:1_01",
+  "condition": "drop_75pct",
+  "ink_density": 0.00640869140625,
+  "lpips": 0.15729090571403503,
+  "dists": 0.27211928367614746
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "perfect_copy",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "blank_canvas",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.6116979122161865,
+  "dists": 0.4852314591407776
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "wrong_drawing",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.5764394998550415,
+  "dists": 0.35106825828552246
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "random_scribble",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.6438533067703247,
+  "dists": 0.31617271900177
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "shift_1px",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.04249044135212898,
+  "dists": 0.06140124797821045
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "shift_2px",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.05876883864402771,
+  "dists": 0.07610428333282471
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "shift_5px",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.11986678838729858,
+  "dists": 0.08029210567474365
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "shift_10px",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.21923454105854034,
+  "dists": 0.08956456184387207
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "rotate_1deg",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.03359990939497948,
+  "dists": 0.0542750358581543
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "rotate_2deg",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.04963952302932739,
+  "dists": 0.0717894434928894
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "rotate_5deg",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.0911589041352272,
+  "dists": 0.11502772569656372
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "drop_25pct",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.06795171648263931,
+  "dists": 0.10662311315536499
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "drop_50pct",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.162965789437294,
+  "dists": 0.19480794668197632
+ },
+ {
+  "reference": "syn:2_02",
+  "condition": "drop_75pct",
+  "ink_density": 0.020111083984375,
+  "lpips": 0.2286876142024994,
+  "dists": 0.297468364238739
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "perfect_copy",
+  "ink_density": 0.020751953125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "blank_canvas",
+  "ink_density": 0.020751953125,
+  "lpips": 0.7483174800872803,
+  "dists": 0.40602773427963257
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "wrong_drawing",
+  "ink_density": 0.020751953125,
+  "lpips": 0.5107389688491821,
+  "dists": 0.3808504343032837
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "random_scribble",
+  "ink_density": 0.020751953125,
+  "lpips": 0.6942540407180786,
+  "dists": 0.3889937996864319
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "shift_1px",
+  "ink_density": 0.020751953125,
+  "lpips": 0.12100120633840561,
+  "dists": 0.11398005485534668
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "shift_2px",
+  "ink_density": 0.020751953125,
+  "lpips": 0.10930857062339783,
+  "dists": 0.07688713073730469
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "shift_5px",
+  "ink_density": 0.020751953125,
+  "lpips": 0.20928004384040833,
+  "dists": 0.12179577350616455
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "shift_10px",
+  "ink_density": 0.020751953125,
+  "lpips": 0.29336822032928467,
+  "dists": 0.06946784257888794
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "rotate_1deg",
+  "ink_density": 0.020751953125,
+  "lpips": 0.08436392992734909,
+  "dists": 0.1020541787147522
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "rotate_2deg",
+  "ink_density": 0.020751953125,
+  "lpips": 0.14459329843521118,
+  "dists": 0.18407785892486572
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "rotate_5deg",
+  "ink_density": 0.020751953125,
+  "lpips": 0.2630152404308319,
+  "dists": 0.24582254886627197
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "drop_25pct",
+  "ink_density": 0.020751953125,
+  "lpips": 0.2619885206222534,
+  "dists": 0.2271430492401123
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "drop_50pct",
+  "ink_density": 0.020751953125,
+  "lpips": 0.39274173974990845,
+  "dists": 0.27903759479522705
+ },
+ {
+  "reference": "syn:3_03",
+  "condition": "drop_75pct",
+  "ink_density": 0.020751953125,
+  "lpips": 0.46049970388412476,
+  "dists": 0.3222837448120117
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "perfect_copy",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "blank_canvas",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.5636584162712097,
+  "dists": 0.5183785557746887
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.3769071698188782,
+  "dists": 0.312092661857605
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "random_scribble",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.5613927841186523,
+  "dists": 0.30721569061279297
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "shift_1px",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.029994577169418335,
+  "dists": 0.06016731262207031
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "shift_2px",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.04583777114748955,
+  "dists": 0.06927227973937988
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "shift_5px",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.09748737514019012,
+  "dists": 0.08311939239501953
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "shift_10px",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.17301121354103088,
+  "dists": 0.08884751796722412
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.014475090429186821,
+  "dists": 0.027927517890930176
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.02051524445414543,
+  "dists": 0.050948262214660645
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.036749280989170074,
+  "dists": 0.10988211631774902
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "drop_25pct",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.05944870412349701,
+  "dists": 0.11094474792480469
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "drop_50pct",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.14221400022506714,
+  "dists": 0.1985224485397339
+ },
+ {
+  "reference": "syn:4_04",
+  "condition": "drop_75pct",
+  "ink_density": 0.0120849609375,
+  "lpips": 0.20033127069473267,
+  "dists": 0.2993631362915039
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "perfect_copy",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "blank_canvas",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.5643261671066284,
+  "dists": 0.41493916511535645
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.500368595123291,
+  "dists": 0.38076382875442505
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "random_scribble",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.4929758906364441,
+  "dists": 0.2183656096458435
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "shift_1px",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.028558915480971336,
+  "dists": 0.055158376693725586
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "shift_2px",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.041845209896564484,
+  "dists": 0.0699043869972229
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "shift_5px",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.10662510991096497,
+  "dists": 0.0760270357131958
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "shift_10px",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.21661122143268585,
+  "dists": 0.08611583709716797
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.030451562255620956,
+  "dists": 0.05990344285964966
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.044225458055734634,
+  "dists": 0.08077925443649292
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.10800036042928696,
+  "dists": 0.11490947008132935
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "drop_25pct",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.09050128608942032,
+  "dists": 0.0801612138748169
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "drop_50pct",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.16369131207466125,
+  "dists": 0.14493662118911743
+ },
+ {
+  "reference": "syn:0_05",
+  "condition": "drop_75pct",
+  "ink_density": 0.0076751708984375,
+  "lpips": 0.23415476083755493,
+  "dists": 0.2647590637207031
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "perfect_copy",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "blank_canvas",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.7180042266845703,
+  "dists": 0.5669686794281006
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "wrong_drawing",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.4954056739807129,
+  "dists": 0.31187939643859863
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "random_scribble",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.5405269861221313,
+  "dists": 0.32338500022888184
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "shift_1px",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.040475018322467804,
+  "dists": 0.06162989139556885
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "shift_2px",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.05084110051393509,
+  "dists": 0.07190501689910889
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "shift_5px",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.10756094753742218,
+  "dists": 0.08471429347991943
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "shift_10px",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.2009519636631012,
+  "dists": 0.09249794483184814
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "rotate_1deg",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.021538449451327324,
+  "dists": 0.03143632411956787
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "rotate_2deg",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.027890488505363464,
+  "dists": 0.05062520503997803
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "rotate_5deg",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.045268550515174866,
+  "dists": 0.08741986751556396
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "drop_25pct",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.11940868943929672,
+  "dists": 0.1342422366142273
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "drop_50pct",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.2139146625995636,
+  "dists": 0.20290064811706543
+ },
+ {
+  "reference": "syn:1_06",
+  "condition": "drop_75pct",
+  "ink_density": 0.02178955078125,
+  "lpips": 0.3374135494232178,
+  "dists": 0.3457036018371582
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "perfect_copy",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "blank_canvas",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.6142639517784119,
+  "dists": 0.4801158905029297
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.587958037853241,
+  "dists": 0.3523300290107727
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "random_scribble",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.6056391000747681,
+  "dists": 0.28761738538742065
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "shift_1px",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.04160439968109131,
+  "dists": 0.06035590171813965
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "shift_2px",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.06006572023034096,
+  "dists": 0.06869810819625854
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "shift_5px",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.11742279678583145,
+  "dists": 0.07876843214035034
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "shift_10px",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.2216477245092392,
+  "dists": 0.08306300640106201
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.03655786067247391,
+  "dists": 0.04649895429611206
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.04857011139392853,
+  "dists": 0.067127525806427
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.08963226526975632,
+  "dists": 0.10406124591827393
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "drop_25pct",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.06709342449903488,
+  "dists": 0.09945762157440186
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "drop_50pct",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.16174063086509705,
+  "dists": 0.18713057041168213
+ },
+ {
+  "reference": "syn:2_07",
+  "condition": "drop_75pct",
+  "ink_density": 0.0203857421875,
+  "lpips": 0.2331051230430603,
+  "dists": 0.3083956837654114
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "perfect_copy",
+  "ink_density": 0.0166015625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "blank_canvas",
+  "ink_density": 0.0166015625,
+  "lpips": 0.6964439749717712,
+  "dists": 0.3762916326522827
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0166015625,
+  "lpips": 0.5712640881538391,
+  "dists": 0.3851550221443176
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "random_scribble",
+  "ink_density": 0.0166015625,
+  "lpips": 0.647002100944519,
+  "dists": 0.378379225730896
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "shift_1px",
+  "ink_density": 0.0166015625,
+  "lpips": 0.1074807196855545,
+  "dists": 0.10148048400878906
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "shift_2px",
+  "ink_density": 0.0166015625,
+  "lpips": 0.1697586476802826,
+  "dists": 0.08596992492675781
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "shift_5px",
+  "ink_density": 0.0166015625,
+  "lpips": 0.21927376091480255,
+  "dists": 0.11345827579498291
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "shift_10px",
+  "ink_density": 0.0166015625,
+  "lpips": 0.34676608443260193,
+  "dists": 0.10460662841796875
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0166015625,
+  "lpips": 0.09903480112552643,
+  "dists": 0.0986626148223877
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0166015625,
+  "lpips": 0.16166318953037262,
+  "dists": 0.17303764820098877
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0166015625,
+  "lpips": 0.2604835331439972,
+  "dists": 0.25492697954177856
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "drop_25pct",
+  "ink_density": 0.0166015625,
+  "lpips": 0.2419513612985611,
+  "dists": 0.2219780683517456
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "drop_50pct",
+  "ink_density": 0.0166015625,
+  "lpips": 0.3807617723941803,
+  "dists": 0.27211278676986694
+ },
+ {
+  "reference": "syn:3_08",
+  "condition": "drop_75pct",
+  "ink_density": 0.0166015625,
+  "lpips": 0.4461732804775238,
+  "dists": 0.3155273199081421
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "perfect_copy",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "blank_canvas",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.516139566898346,
+  "dists": 0.5052634477615356
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "wrong_drawing",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.31244543194770813,
+  "dists": 0.3423123359680176
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "random_scribble",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.5276440978050232,
+  "dists": 0.3105458617210388
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "shift_1px",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.03127918764948845,
+  "dists": 0.061501383781433105
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "shift_2px",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.04047127068042755,
+  "dists": 0.07014673948287964
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "shift_5px",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.08329831808805466,
+  "dists": 0.08403629064559937
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "shift_10px",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.15964969992637634,
+  "dists": 0.08788412809371948
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "rotate_1deg",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.013526128605008125,
+  "dists": 0.02837306261062622
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "rotate_2deg",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.016291430220007896,
+  "dists": 0.053662896156311035
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "rotate_5deg",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.03394979238510132,
+  "dists": 0.09686583280563354
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "drop_25pct",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.055291417986154556,
+  "dists": 0.11940634250640869
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "drop_50pct",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.10413804650306702,
+  "dists": 0.19697129726409912
+ },
+ {
+  "reference": "syn:4_09",
+  "condition": "drop_75pct",
+  "ink_density": 0.010650634765625,
+  "lpips": 0.19183731079101562,
+  "dists": 0.33526045083999634
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "perfect_copy",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "blank_canvas",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.3988710045814514,
+  "dists": 0.3641471862792969
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "wrong_drawing",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.22208842635154724,
+  "dists": 0.2847522497177124
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "random_scribble",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.45359885692596436,
+  "dists": 0.18935704231262207
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "shift_1px",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.027060501277446747,
+  "dists": 0.05758851766586304
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "shift_2px",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.041063256561756134,
+  "dists": 0.07236135005950928
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "shift_5px",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.0934433862566948,
+  "dists": 0.07625657320022583
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "shift_10px",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.17806802690029144,
+  "dists": 0.07823866605758667
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "rotate_1deg",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.022099008783698082,
+  "dists": 0.06023967266082764
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "rotate_2deg",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.034827832132577896,
+  "dists": 0.07386887073516846
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "rotate_5deg",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.056967027485370636,
+  "dists": 0.11427998542785645
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "drop_25pct",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.054685965180397034,
+  "dists": 0.08695363998413086
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "drop_50pct",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.09356943517923355,
+  "dists": 0.14649665355682373
+ },
+ {
+  "reference": "syn:0_10",
+  "condition": "drop_75pct",
+  "ink_density": 0.004364013671875,
+  "lpips": 0.13211829960346222,
+  "dists": 0.2378387451171875
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "perfect_copy",
+  "ink_density": 0.006591796875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "blank_canvas",
+  "ink_density": 0.006591796875,
+  "lpips": 0.4254503846168518,
+  "dists": 0.4408528208732605
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "wrong_drawing",
+  "ink_density": 0.006591796875,
+  "lpips": 0.471856027841568,
+  "dists": 0.32457196712493896
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "random_scribble",
+  "ink_density": 0.006591796875,
+  "lpips": 0.5276536345481873,
+  "dists": 0.29020440578460693
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "shift_1px",
+  "ink_density": 0.006591796875,
+  "lpips": 0.024252792820334435,
+  "dists": 0.06121337413787842
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "shift_2px",
+  "ink_density": 0.006591796875,
+  "lpips": 0.03372607380151749,
+  "dists": 0.068850576877594
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "shift_5px",
+  "ink_density": 0.006591796875,
+  "lpips": 0.08209069073200226,
+  "dists": 0.08148860931396484
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "shift_10px",
+  "ink_density": 0.006591796875,
+  "lpips": 0.14645075798034668,
+  "dists": 0.08303815126419067
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "rotate_1deg",
+  "ink_density": 0.006591796875,
+  "lpips": 0.009143328294157982,
+  "dists": 0.030267775058746338
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "rotate_2deg",
+  "ink_density": 0.006591796875,
+  "lpips": 0.01579286903142929,
+  "dists": 0.04069787263870239
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "rotate_5deg",
+  "ink_density": 0.006591796875,
+  "lpips": 0.019962748512625694,
+  "dists": 0.07522249221801758
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "drop_25pct",
+  "ink_density": 0.006591796875,
+  "lpips": 0.04851387441158295,
+  "dists": 0.11508488655090332
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "drop_50pct",
+  "ink_density": 0.006591796875,
+  "lpips": 0.09003724157810211,
+  "dists": 0.16170310974121094
+ },
+ {
+  "reference": "syn:1_11",
+  "condition": "drop_75pct",
+  "ink_density": 0.006591796875,
+  "lpips": 0.1449362337589264,
+  "dists": 0.2653126120567322
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "perfect_copy",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "blank_canvas",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.6626629829406738,
+  "dists": 0.4996209740638733
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.6561412215232849,
+  "dists": 0.39174556732177734
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "random_scribble",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.63833087682724,
+  "dists": 0.2859276533126831
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "shift_1px",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.040360644459724426,
+  "dists": 0.060806989669799805
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "shift_2px",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.061733074486255646,
+  "dists": 0.06966638565063477
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "shift_5px",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.13595722615718842,
+  "dists": 0.08359289169311523
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "shift_10px",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.2483942210674286,
+  "dists": 0.08727449178695679
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.036324452608823776,
+  "dists": 0.051328301429748535
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.054061561822891235,
+  "dists": 0.07925564050674438
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.10256341099739075,
+  "dists": 0.12236082553863525
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "drop_25pct",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.07846423983573914,
+  "dists": 0.11123275756835938
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "drop_50pct",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.17270150780677795,
+  "dists": 0.20100730657577515
+ },
+ {
+  "reference": "syn:2_12",
+  "condition": "drop_75pct",
+  "ink_density": 0.0221405029296875,
+  "lpips": 0.2785460352897644,
+  "dists": 0.3093135952949524
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "perfect_copy",
+  "ink_density": 0.010986328125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "blank_canvas",
+  "ink_density": 0.010986328125,
+  "lpips": 0.575355052947998,
+  "dists": 0.35402345657348633
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "wrong_drawing",
+  "ink_density": 0.010986328125,
+  "lpips": 0.6099212765693665,
+  "dists": 0.3826097249984741
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "random_scribble",
+  "ink_density": 0.010986328125,
+  "lpips": 0.5834416151046753,
+  "dists": 0.34008538722991943
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "shift_1px",
+  "ink_density": 0.010986328125,
+  "lpips": 0.11883340775966644,
+  "dists": 0.09176301956176758
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "shift_2px",
+  "ink_density": 0.010986328125,
+  "lpips": 0.13710106909275055,
+  "dists": 0.08582019805908203
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "shift_5px",
+  "ink_density": 0.010986328125,
+  "lpips": 0.19249244034290314,
+  "dists": 0.10308098793029785
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "shift_10px",
+  "ink_density": 0.010986328125,
+  "lpips": 0.31968802213668823,
+  "dists": 0.10923361778259277
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "rotate_1deg",
+  "ink_density": 0.010986328125,
+  "lpips": 0.12888871133327484,
+  "dists": 0.1296987533569336
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "rotate_2deg",
+  "ink_density": 0.010986328125,
+  "lpips": 0.17697544395923615,
+  "dists": 0.15079963207244873
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "rotate_5deg",
+  "ink_density": 0.010986328125,
+  "lpips": 0.24956947565078735,
+  "dists": 0.20993411540985107
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "drop_25pct",
+  "ink_density": 0.010986328125,
+  "lpips": 0.23390412330627441,
+  "dists": 0.20195919275283813
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "drop_50pct",
+  "ink_density": 0.010986328125,
+  "lpips": 0.34278661012649536,
+  "dists": 0.2534973621368408
+ },
+ {
+  "reference": "syn:3_13",
+  "condition": "drop_75pct",
+  "ink_density": 0.010986328125,
+  "lpips": 0.37321391701698303,
+  "dists": 0.30468839406967163
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "perfect_copy",
+  "ink_density": 0.009765625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "blank_canvas",
+  "ink_density": 0.009765625,
+  "lpips": 0.6047762632369995,
+  "dists": 0.5144522786140442
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "wrong_drawing",
+  "ink_density": 0.009765625,
+  "lpips": 0.4637506604194641,
+  "dists": 0.29923731088638306
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "random_scribble",
+  "ink_density": 0.009765625,
+  "lpips": 0.5051263570785522,
+  "dists": 0.2963297367095947
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "shift_1px",
+  "ink_density": 0.009765625,
+  "lpips": 0.03589751571416855,
+  "dists": 0.05777472257614136
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "shift_2px",
+  "ink_density": 0.009765625,
+  "lpips": 0.04485619440674782,
+  "dists": 0.06821954250335693
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "shift_5px",
+  "ink_density": 0.009765625,
+  "lpips": 0.11006295680999756,
+  "dists": 0.08115077018737793
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "shift_10px",
+  "ink_density": 0.009765625,
+  "lpips": 0.2152428776025772,
+  "dists": 0.08420979976654053
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "rotate_1deg",
+  "ink_density": 0.009765625,
+  "lpips": 0.017708800733089447,
+  "dists": 0.031050920486450195
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "rotate_2deg",
+  "ink_density": 0.009765625,
+  "lpips": 0.025424355641007423,
+  "dists": 0.054162025451660156
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "rotate_5deg",
+  "ink_density": 0.009765625,
+  "lpips": 0.05342397093772888,
+  "dists": 0.10070133209228516
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "drop_25pct",
+  "ink_density": 0.009765625,
+  "lpips": 0.07657850533723831,
+  "dists": 0.11334186792373657
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "drop_50pct",
+  "ink_density": 0.009765625,
+  "lpips": 0.14690810441970825,
+  "dists": 0.17823636531829834
+ },
+ {
+  "reference": "syn:4_14",
+  "condition": "drop_75pct",
+  "ink_density": 0.009765625,
+  "lpips": 0.2310289591550827,
+  "dists": 0.2967608571052551
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "perfect_copy",
+  "ink_density": 0.00830078125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "blank_canvas",
+  "ink_density": 0.00830078125,
+  "lpips": 0.6116408705711365,
+  "dists": 0.471879243850708
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "wrong_drawing",
+  "ink_density": 0.00830078125,
+  "lpips": 0.6278977394104004,
+  "dists": 0.3441718816757202
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "random_scribble",
+  "ink_density": 0.00830078125,
+  "lpips": 0.5765385627746582,
+  "dists": 0.24719715118408203
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "shift_1px",
+  "ink_density": 0.00830078125,
+  "lpips": 0.03203004598617554,
+  "dists": 0.05564957857131958
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "shift_2px",
+  "ink_density": 0.00830078125,
+  "lpips": 0.045529626309871674,
+  "dists": 0.06392782926559448
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "shift_5px",
+  "ink_density": 0.00830078125,
+  "lpips": 0.11608444899320602,
+  "dists": 0.08061188459396362
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "shift_10px",
+  "ink_density": 0.00830078125,
+  "lpips": 0.2328125387430191,
+  "dists": 0.09391742944717407
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "rotate_1deg",
+  "ink_density": 0.00830078125,
+  "lpips": 0.03438486158847809,
+  "dists": 0.06824815273284912
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "rotate_2deg",
+  "ink_density": 0.00830078125,
+  "lpips": 0.04367109388113022,
+  "dists": 0.09536170959472656
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "rotate_5deg",
+  "ink_density": 0.00830078125,
+  "lpips": 0.08890103548765182,
+  "dists": 0.14801454544067383
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "drop_25pct",
+  "ink_density": 0.00830078125,
+  "lpips": 0.09762720763683319,
+  "dists": 0.1267903447151184
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "drop_50pct",
+  "ink_density": 0.00830078125,
+  "lpips": 0.16584277153015137,
+  "dists": 0.20124053955078125
+ },
+ {
+  "reference": "syn:0_15",
+  "condition": "drop_75pct",
+  "ink_density": 0.00830078125,
+  "lpips": 0.2591504156589508,
+  "dists": 0.32499802112579346
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "perfect_copy",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "blank_canvas",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.3030058443546295,
+  "dists": 0.35654640197753906
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.41130897402763367,
+  "dists": 0.3030562400817871
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "random_scribble",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.39852333068847656,
+  "dists": 0.2566060423851013
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "shift_1px",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.019941752776503563,
+  "dists": 0.056830406188964844
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "shift_2px",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.026316553354263306,
+  "dists": 0.06576400995254517
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "shift_5px",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.06714153289794922,
+  "dists": 0.07657492160797119
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "shift_10px",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.12614446878433228,
+  "dists": 0.07693088054656982
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.003990466240793467,
+  "dists": 0.011009693145751953
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.0068185580894351006,
+  "dists": 0.025381088256835938
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.009756894782185555,
+  "dists": 0.0519484281539917
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "drop_25pct",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.02750091627240181,
+  "dists": 0.07548093795776367
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "drop_50pct",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.056951530277729034,
+  "dists": 0.1321864128112793
+ },
+ {
+  "reference": "syn:1_16",
+  "condition": "drop_75pct",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.09067599475383759,
+  "dists": 0.22773391008377075
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "perfect_copy",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "blank_canvas",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.5530821681022644,
+  "dists": 0.4706737995147705
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "wrong_drawing",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.6314186453819275,
+  "dists": 0.36359483003616333
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "random_scribble",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.5104580521583557,
+  "dists": 0.2717711925506592
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "shift_1px",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.039619557559490204,
+  "dists": 0.05685901641845703
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "shift_2px",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.05422740802168846,
+  "dists": 0.06762337684631348
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "shift_5px",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.12414608895778656,
+  "dists": 0.07662367820739746
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "shift_10px",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.22292207181453705,
+  "dists": 0.08198386430740356
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "rotate_1deg",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.03460613638162613,
+  "dists": 0.04649478197097778
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "rotate_2deg",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.050357989966869354,
+  "dists": 0.07340335845947266
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "rotate_5deg",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.09617440402507782,
+  "dists": 0.11188143491744995
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "drop_25pct",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.0652167871594429,
+  "dists": 0.11166197061538696
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "drop_50pct",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.13711115717887878,
+  "dists": 0.17038536071777344
+ },
+ {
+  "reference": "syn:2_17",
+  "condition": "drop_75pct",
+  "ink_density": 0.01239013671875,
+  "lpips": 0.21208736300468445,
+  "dists": 0.29945677518844604
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "perfect_copy",
+  "ink_density": 0.026123046875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "blank_canvas",
+  "ink_density": 0.026123046875,
+  "lpips": 0.7019903659820557,
+  "dists": 0.39378905296325684
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "wrong_drawing",
+  "ink_density": 0.026123046875,
+  "lpips": 0.6019028425216675,
+  "dists": 0.40201669931411743
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "random_scribble",
+  "ink_density": 0.026123046875,
+  "lpips": 0.6582286357879639,
+  "dists": 0.3971046805381775
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "shift_1px",
+  "ink_density": 0.026123046875,
+  "lpips": 0.1531958431005478,
+  "dists": 0.0685422420501709
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "shift_2px",
+  "ink_density": 0.026123046875,
+  "lpips": 0.14751635491847992,
+  "dists": 0.07603168487548828
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "shift_5px",
+  "ink_density": 0.026123046875,
+  "lpips": 0.20890569686889648,
+  "dists": 0.09735584259033203
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "shift_10px",
+  "ink_density": 0.026123046875,
+  "lpips": 0.32982146739959717,
+  "dists": 0.09665995836257935
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "rotate_1deg",
+  "ink_density": 0.026123046875,
+  "lpips": 0.14058330655097961,
+  "dists": 0.10635572671890259
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "rotate_2deg",
+  "ink_density": 0.026123046875,
+  "lpips": 0.2099827080965042,
+  "dists": 0.154768705368042
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "rotate_5deg",
+  "ink_density": 0.026123046875,
+  "lpips": 0.29742714762687683,
+  "dists": 0.25641119480133057
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "drop_25pct",
+  "ink_density": 0.026123046875,
+  "lpips": 0.282958447933197,
+  "dists": 0.24853670597076416
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "drop_50pct",
+  "ink_density": 0.026123046875,
+  "lpips": 0.40761417150497437,
+  "dists": 0.30423760414123535
+ },
+ {
+  "reference": "syn:3_18",
+  "condition": "drop_75pct",
+  "ink_density": 0.026123046875,
+  "lpips": 0.4990682601928711,
+  "dists": 0.33639705181121826
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "perfect_copy",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "blank_canvas",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.5792413353919983,
+  "dists": 0.4930630326271057
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.40589410066604614,
+  "dists": 0.293989896774292
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "random_scribble",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.6286336779594421,
+  "dists": 0.29474562406539917
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "shift_1px",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.03797086700797081,
+  "dists": 0.05330312252044678
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "shift_2px",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.04701145738363266,
+  "dists": 0.06432533264160156
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "shift_5px",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.10131558030843735,
+  "dists": 0.07698005437850952
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "shift_10px",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.20559272170066833,
+  "dists": 0.08632630109786987
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.01737343706190586,
+  "dists": 0.027536332607269287
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.025919293984770775,
+  "dists": 0.05209648609161377
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.05689273029565811,
+  "dists": 0.09562867879867554
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "drop_25pct",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.06775767356157303,
+  "dists": 0.11011576652526855
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "drop_50pct",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.14422926306724548,
+  "dists": 0.1748666763305664
+ },
+ {
+  "reference": "syn:4_19",
+  "condition": "drop_75pct",
+  "ink_density": 0.0077362060546875,
+  "lpips": 0.20763333141803741,
+  "dists": 0.28962647914886475
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "perfect_copy",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "blank_canvas",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.5646834969520569,
+  "dists": 0.4234381914138794
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.42823857069015503,
+  "dists": 0.294635534286499
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "random_scribble",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.499673068523407,
+  "dists": 0.24660074710845947
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "shift_1px",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.03431066498160362,
+  "dists": 0.05448728799819946
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "shift_2px",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.04160941019654274,
+  "dists": 0.06858831644058228
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "shift_5px",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.09921355545520782,
+  "dists": 0.0767030119895935
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "shift_10px",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.20932310819625854,
+  "dists": 0.08323425054550171
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.026754645630717278,
+  "dists": 0.042115092277526855
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.04005875810980797,
+  "dists": 0.06607556343078613
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.08137395232915878,
+  "dists": 0.10596072673797607
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "drop_25pct",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.07535829395055771,
+  "dists": 0.07587027549743652
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "drop_50pct",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.1354844570159912,
+  "dists": 0.15574073791503906
+ },
+ {
+  "reference": "syn:0_20",
+  "condition": "drop_75pct",
+  "ink_density": 0.0072021484375,
+  "lpips": 0.21644583344459534,
+  "dists": 0.2473663091659546
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "perfect_copy",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "blank_canvas",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.4455551505088806,
+  "dists": 0.45650941133499146
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.18528367578983307,
+  "dists": 0.21765565872192383
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "random_scribble",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.500400185585022,
+  "dists": 0.2923828363418579
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "shift_1px",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.03374598175287247,
+  "dists": 0.05891215801239014
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "shift_2px",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.05272424593567848,
+  "dists": 0.06875717639923096
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "shift_5px",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.09192032366991043,
+  "dists": 0.07914739847183228
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "shift_10px",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.15651175379753113,
+  "dists": 0.08151757717132568
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.01058703102171421,
+  "dists": 0.02433842420578003
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.01221347227692604,
+  "dists": 0.040512919425964355
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.02329552359879017,
+  "dists": 0.08515721559524536
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "drop_25pct",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.046873610466718674,
+  "dists": 0.1088142991065979
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "drop_50pct",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.09139852970838547,
+  "dists": 0.16805636882781982
+ },
+ {
+  "reference": "syn:1_21",
+  "condition": "drop_75pct",
+  "ink_density": 0.0069580078125,
+  "lpips": 0.15784579515457153,
+  "dists": 0.29829591512680054
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "perfect_copy",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "blank_canvas",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.4723741412162781,
+  "dists": 0.42018985748291016
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.3937293291091919,
+  "dists": 0.30754363536834717
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "random_scribble",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.5662833452224731,
+  "dists": 0.27948641777038574
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "shift_1px",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.02810121513903141,
+  "dists": 0.05746060609817505
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "shift_2px",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.04024675115942955,
+  "dists": 0.0667656660079956
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "shift_5px",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.0972708985209465,
+  "dists": 0.07498347759246826
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "shift_10px",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.17466264963150024,
+  "dists": 0.076754629611969
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.025538986548781395,
+  "dists": 0.045203566551208496
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.03630814701318741,
+  "dists": 0.06815493106842041
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.060404952615499496,
+  "dists": 0.10615110397338867
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "drop_25pct",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.04328717663884163,
+  "dists": 0.08651745319366455
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "drop_50pct",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.10141348838806152,
+  "dists": 0.15999329090118408
+ },
+ {
+  "reference": "syn:2_22",
+  "condition": "drop_75pct",
+  "ink_density": 0.0093841552734375,
+  "lpips": 0.15721051394939423,
+  "dists": 0.26526087522506714
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "perfect_copy",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "blank_canvas",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.5990734696388245,
+  "dists": 0.3727879524230957
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.38727328181266785,
+  "dists": 0.35054296255111694
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "random_scribble",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.5767847299575806,
+  "dists": 0.3406018018722534
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "shift_1px",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.06555318087339401,
+  "dists": 0.08021795749664307
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "shift_2px",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.09533911943435669,
+  "dists": 0.07796907424926758
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "shift_5px",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.15854033827781677,
+  "dists": 0.08553403615951538
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "shift_10px",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.23027995228767395,
+  "dists": 0.08528590202331543
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.0442269928753376,
+  "dists": 0.08482015132904053
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.09078240394592285,
+  "dists": 0.14330363273620605
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.16779279708862305,
+  "dists": 0.224617600440979
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "drop_25pct",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.1613566130399704,
+  "dists": 0.18653714656829834
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "drop_50pct",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.2433294653892517,
+  "dists": 0.24078774452209473
+ },
+ {
+  "reference": "syn:3_23",
+  "condition": "drop_75pct",
+  "ink_density": 0.0140380859375,
+  "lpips": 0.32430654764175415,
+  "dists": 0.2818121910095215
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "perfect_copy",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "blank_canvas",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.5183144807815552,
+  "dists": 0.4839060306549072
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.4024113118648529,
+  "dists": 0.29408687353134155
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "random_scribble",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.48726886510849,
+  "dists": 0.3041050434112549
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "shift_1px",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.02899445965886116,
+  "dists": 0.05510735511779785
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "shift_2px",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.04059963300824165,
+  "dists": 0.06695187091827393
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "shift_5px",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.0896514356136322,
+  "dists": 0.08237498998641968
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "shift_10px",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.17097099125385284,
+  "dists": 0.08680856227874756
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.014033831655979156,
+  "dists": 0.025913774967193604
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.019771983847022057,
+  "dists": 0.05380815267562866
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.04186410456895828,
+  "dists": 0.09946954250335693
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "drop_25pct",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.05424363166093826,
+  "dists": 0.10719537734985352
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "drop_50pct",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.1126166582107544,
+  "dists": 0.17953342199325562
+ },
+ {
+  "reference": "syn:4_24",
+  "condition": "drop_75pct",
+  "ink_density": 0.0079498291015625,
+  "lpips": 0.18734343349933624,
+  "dists": 0.3047829866409302
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "perfect_copy",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "blank_canvas",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.5762616395950317,
+  "dists": 0.4219766855239868
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "wrong_drawing",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.5472776889801025,
+  "dists": 0.3279881477355957
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "random_scribble",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.5288436412811279,
+  "dists": 0.25164496898651123
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "shift_1px",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.026536837220191956,
+  "dists": 0.05238461494445801
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "shift_2px",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.04181203246116638,
+  "dists": 0.06824779510498047
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "shift_5px",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.09636010974645615,
+  "dists": 0.07489413022994995
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "shift_10px",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.21508824825286865,
+  "dists": 0.08346164226531982
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "rotate_1deg",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.03011716902256012,
+  "dists": 0.05167621374130249
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "rotate_2deg",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.04104253277182579,
+  "dists": 0.077303946018219
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "rotate_5deg",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.08123626559972763,
+  "dists": 0.10878968238830566
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "drop_25pct",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.0642876997590065,
+  "dists": 0.07163006067276001
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "drop_50pct",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.16312244534492493,
+  "dists": 0.14557647705078125
+ },
+ {
+  "reference": "syn:0_25",
+  "condition": "drop_75pct",
+  "ink_density": 0.00750732421875,
+  "lpips": 0.2549261152744293,
+  "dists": 0.276320219039917
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "perfect_copy",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "blank_canvas",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.3030058443546295,
+  "dists": 0.35654640197753906
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.44094979763031006,
+  "dists": 0.3613011837005615
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "random_scribble",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.37078213691711426,
+  "dists": 0.25544416904449463
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "shift_1px",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.019941752776503563,
+  "dists": 0.056830406188964844
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "shift_2px",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.026316553354263306,
+  "dists": 0.06576400995254517
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "shift_5px",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.06714153289794922,
+  "dists": 0.07657492160797119
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "shift_10px",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.12614446878433228,
+  "dists": 0.07693088054656982
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.003990466240793467,
+  "dists": 0.011009693145751953
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.0068185580894351006,
+  "dists": 0.025381088256835938
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.009756894782185555,
+  "dists": 0.0519484281539917
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "drop_25pct",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.02614753320813179,
+  "dists": 0.07412475347518921
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "drop_50pct",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.05703325942158699,
+  "dists": 0.13184809684753418
+ },
+ {
+  "reference": "syn:1_26",
+  "condition": "drop_75pct",
+  "ink_density": 0.0025634765625,
+  "lpips": 0.08023141324520111,
+  "dists": 0.18241286277770996
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "perfect_copy",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "blank_canvas",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.5797387957572937,
+  "dists": 0.4825740456581116
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.5587896704673767,
+  "dists": 0.3526232838630676
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "random_scribble",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.644458532333374,
+  "dists": 0.3070898652076721
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "shift_1px",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.031233934685587883,
+  "dists": 0.059998154640197754
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "shift_2px",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.04653354361653328,
+  "dists": 0.06687569618225098
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "shift_5px",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.10274520516395569,
+  "dists": 0.07868361473083496
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "shift_10px",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.20101934671401978,
+  "dists": 0.08338552713394165
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.025501055642962456,
+  "dists": 0.04627275466918945
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.03465111553668976,
+  "dists": 0.0740346908569336
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.07029598206281662,
+  "dists": 0.12424087524414062
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "drop_25pct",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.06568052619695663,
+  "dists": 0.11498141288757324
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "drop_50pct",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.14609363675117493,
+  "dists": 0.2021632194519043
+ },
+ {
+  "reference": "syn:2_27",
+  "condition": "drop_75pct",
+  "ink_density": 0.0181427001953125,
+  "lpips": 0.19545231759548187,
+  "dists": 0.3141137957572937
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "perfect_copy",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "blank_canvas",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.6955083012580872,
+  "dists": 0.39297616481781006
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.5335689783096313,
+  "dists": 0.3792183995246887
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "random_scribble",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.6599801182746887,
+  "dists": 0.374164342880249
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "shift_1px",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.12807020545005798,
+  "dists": 0.09915077686309814
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "shift_2px",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.11334153264760971,
+  "dists": 0.0736469030380249
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "shift_5px",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.20505864918231964,
+  "dists": 0.10686904191970825
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "shift_10px",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.2910480201244354,
+  "dists": 0.0874866247177124
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.08951450139284134,
+  "dists": 0.10001879930496216
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.14150549471378326,
+  "dists": 0.17158448696136475
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.25181594491004944,
+  "dists": 0.2513875961303711
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "drop_25pct",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.24518504738807678,
+  "dists": 0.23413246870040894
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "drop_50pct",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.338510662317276,
+  "dists": 0.27455687522888184
+ },
+ {
+  "reference": "syn:3_28",
+  "condition": "drop_75pct",
+  "ink_density": 0.0194091796875,
+  "lpips": 0.40366628766059875,
+  "dists": 0.29795920848846436
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "perfect_copy",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "blank_canvas",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.526138424873352,
+  "dists": 0.476908802986145
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "wrong_drawing",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.5954540371894836,
+  "dists": 0.2647467255592346
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "random_scribble",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.44870465993881226,
+  "dists": 0.275886595249176
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "shift_1px",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.02865961566567421,
+  "dists": 0.05340355634689331
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "shift_2px",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.04088398069143295,
+  "dists": 0.06355363130569458
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "shift_5px",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.08775574713945389,
+  "dists": 0.08136272430419922
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "shift_10px",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.175468310713768,
+  "dists": 0.08129405975341797
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "rotate_1deg",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.016352921724319458,
+  "dists": 0.02763921022415161
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "rotate_2deg",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.022211438044905663,
+  "dists": 0.0465550422668457
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "rotate_5deg",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.045605625957250595,
+  "dists": 0.10400772094726562
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "drop_25pct",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.055462390184402466,
+  "dists": 0.10904395580291748
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "drop_50pct",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.11773137748241425,
+  "dists": 0.15796834230422974
+ },
+ {
+  "reference": "syn:4_29",
+  "condition": "drop_75pct",
+  "ink_density": 0.00689697265625,
+  "lpips": 0.18428000807762146,
+  "dists": 0.29284071922302246
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "perfect_copy",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "blank_canvas",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.6020240187644958,
+  "dists": 0.45114147663116455
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.4424850046634674,
+  "dists": 0.3859267830848694
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "random_scribble",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.5973146557807922,
+  "dists": 0.22225970029830933
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "shift_1px",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.026993118226528168,
+  "dists": 0.05899643898010254
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "shift_2px",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.052219413220882416,
+  "dists": 0.06757199764251709
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "shift_5px",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.12439403682947159,
+  "dists": 0.08540105819702148
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "shift_10px",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.22634601593017578,
+  "dists": 0.09380894899368286
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.024459978565573692,
+  "dists": 0.05157172679901123
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.042885616421699524,
+  "dists": 0.09376198053359985
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.09868679940700531,
+  "dists": 0.15276694297790527
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "drop_25pct",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.10869242250919342,
+  "dists": 0.14517593383789062
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "drop_50pct",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.17090876400470734,
+  "dists": 0.20188158750534058
+ },
+ {
+  "reference": "syn:0_30",
+  "condition": "drop_75pct",
+  "ink_density": 0.0086669921875,
+  "lpips": 0.24844898283481598,
+  "dists": 0.2869638204574585
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "perfect_copy",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "blank_canvas",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.7161430716514587,
+  "dists": 0.5729604959487915
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "wrong_drawing",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.5613729953765869,
+  "dists": 0.34290313720703125
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "random_scribble",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.5277153253555298,
+  "dists": 0.32416749000549316
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "shift_1px",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.04322179779410362,
+  "dists": 0.06325101852416992
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "shift_2px",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.0527660958468914,
+  "dists": 0.07237553596496582
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "shift_5px",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.10627251863479614,
+  "dists": 0.09106028079986572
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "shift_10px",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.1881229430437088,
+  "dists": 0.09939074516296387
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "rotate_1deg",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.016964485868811607,
+  "dists": 0.03271317481994629
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "rotate_2deg",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.024692092090845108,
+  "dists": 0.048261046409606934
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "rotate_5deg",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.04538236930966377,
+  "dists": 0.11364853382110596
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "drop_25pct",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.11139065027236938,
+  "dists": 0.13253134489059448
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "drop_50pct",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.23842684924602509,
+  "dists": 0.21071290969848633
+ },
+ {
+  "reference": "syn:1_31",
+  "condition": "drop_75pct",
+  "ink_density": 0.02301025390625,
+  "lpips": 0.34018638730049133,
+  "dists": 0.3325212001800537
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "perfect_copy",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "blank_canvas",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.5480872392654419,
+  "dists": 0.4617832899093628
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "wrong_drawing",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.3591322898864746,
+  "dists": 0.3305469751358032
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "random_scribble",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.6188170909881592,
+  "dists": 0.2839864492416382
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "shift_1px",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.03255974501371384,
+  "dists": 0.056363582611083984
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "shift_2px",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.04592565819621086,
+  "dists": 0.06740200519561768
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "shift_5px",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.1031067743897438,
+  "dists": 0.0740966796875
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "shift_10px",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.20008304715156555,
+  "dists": 0.079914391040802
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "rotate_1deg",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.029851792380213737,
+  "dists": 0.04119139909744263
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "rotate_2deg",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.03767911344766617,
+  "dists": 0.06355881690979004
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "rotate_5deg",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.07313454151153564,
+  "dists": 0.11294382810592651
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "drop_25pct",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.06026794761419296,
+  "dists": 0.1042623519897461
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "drop_50pct",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.13729393482208252,
+  "dists": 0.18008959293365479
+ },
+ {
+  "reference": "syn:2_32",
+  "condition": "drop_75pct",
+  "ink_density": 0.015472412109375,
+  "lpips": 0.18888118863105774,
+  "dists": 0.29123812913894653
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "perfect_copy",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "blank_canvas",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.5749425292015076,
+  "dists": 0.37857717275619507
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.5471608638763428,
+  "dists": 0.40780454874038696
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "random_scribble",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.618199348449707,
+  "dists": 0.35339462757110596
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "shift_1px",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.0719238668680191,
+  "dists": 0.09168010950088501
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "shift_2px",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.10735125839710236,
+  "dists": 0.08138352632522583
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "shift_5px",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.17791762948036194,
+  "dists": 0.09653091430664062
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "shift_10px",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.2575097382068634,
+  "dists": 0.08796602487564087
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.05455944314599037,
+  "dists": 0.10982900857925415
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.09623760730028152,
+  "dists": 0.14818638563156128
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.1678503006696701,
+  "dists": 0.20197105407714844
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "drop_25pct",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.1616213023662567,
+  "dists": 0.178033709526062
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "drop_50pct",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.20844878256320953,
+  "dists": 0.21995145082473755
+ },
+ {
+  "reference": "syn:3_33",
+  "condition": "drop_75pct",
+  "ink_density": 0.0118408203125,
+  "lpips": 0.27082324028015137,
+  "dists": 0.2676849961280823
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "perfect_copy",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "blank_canvas",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.6683496832847595,
+  "dists": 0.5589579343795776
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "wrong_drawing",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.41131436824798584,
+  "dists": 0.3331061601638794
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "random_scribble",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.5322146415710449,
+  "dists": 0.3224201202392578
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "shift_1px",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.03625665232539177,
+  "dists": 0.058576881885528564
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "shift_2px",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.04903203621506691,
+  "dists": 0.06922638416290283
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "shift_5px",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.09606597572565079,
+  "dists": 0.08586704730987549
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "shift_10px",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.17953725159168243,
+  "dists": 0.09664499759674072
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "rotate_1deg",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.01983099803328514,
+  "dists": 0.0288277268409729
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "rotate_2deg",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.025738615542650223,
+  "dists": 0.04591715335845947
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "rotate_5deg",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.04977851361036301,
+  "dists": 0.09859979152679443
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "drop_25pct",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.10397465527057648,
+  "dists": 0.12030607461929321
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "drop_50pct",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.2093236744403839,
+  "dists": 0.1997675895690918
+ },
+ {
+  "reference": "syn:4_34",
+  "condition": "drop_75pct",
+  "ink_density": 0.01837158203125,
+  "lpips": 0.3140471279621124,
+  "dists": 0.34953510761260986
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "perfect_copy",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "blank_canvas",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.5848290920257568,
+  "dists": 0.4553641080856323
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.39357805252075195,
+  "dists": 0.35125184059143066
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "random_scribble",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.5493902564048767,
+  "dists": 0.23528361320495605
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "shift_1px",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.044127315282821655,
+  "dists": 0.05666851997375488
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "shift_2px",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.05782058462500572,
+  "dists": 0.06844484806060791
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "shift_5px",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.11428780108690262,
+  "dists": 0.0803537368774414
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "shift_10px",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.22703664004802704,
+  "dists": 0.09549200534820557
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.04152834042906761,
+  "dists": 0.06562566757202148
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.05207514762878418,
+  "dists": 0.08856201171875
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.10547231882810593,
+  "dists": 0.1393778920173645
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "drop_25pct",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.1078602522611618,
+  "dists": 0.11423063278198242
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "drop_50pct",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.19442781805992126,
+  "dists": 0.1842820644378662
+ },
+ {
+  "reference": "syn:0_35",
+  "condition": "drop_75pct",
+  "ink_density": 0.0088653564453125,
+  "lpips": 0.2692972421646118,
+  "dists": 0.27715253829956055
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "perfect_copy",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "blank_canvas",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.7014632821083069,
+  "dists": 0.5603357553482056
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.5476356148719788,
+  "dists": 0.32680749893188477
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "random_scribble",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.48446542024612427,
+  "dists": 0.30384135246276855
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "shift_1px",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.04125700145959854,
+  "dists": 0.06044137477874756
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "shift_2px",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.04968817159533501,
+  "dists": 0.06924861669540405
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "shift_5px",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.1061927005648613,
+  "dists": 0.08669137954711914
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "shift_10px",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.1727566123008728,
+  "dists": 0.09343141317367554
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.017368514090776443,
+  "dists": 0.033603668212890625
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.02639630436897278,
+  "dists": 0.04866141080856323
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.04897088557481766,
+  "dists": 0.10647380352020264
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "drop_25pct",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.1216450184583664,
+  "dists": 0.1264144778251648
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "drop_50pct",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.24369025230407715,
+  "dists": 0.21477967500686646
+ },
+ {
+  "reference": "syn:1_36",
+  "condition": "drop_75pct",
+  "ink_density": 0.0218505859375,
+  "lpips": 0.34612712264060974,
+  "dists": 0.3410136103630066
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "perfect_copy",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "blank_canvas",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.5831172466278076,
+  "dists": 0.47924673557281494
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "wrong_drawing",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.4171816110610962,
+  "dists": 0.3372567892074585
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "random_scribble",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.6138396263122559,
+  "dists": 0.30218595266342163
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "shift_1px",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.03733639791607857,
+  "dists": 0.05917513370513916
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "shift_2px",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.04749405011534691,
+  "dists": 0.06864595413208008
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "shift_5px",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.11369449645280838,
+  "dists": 0.07986271381378174
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "shift_10px",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.20468051731586456,
+  "dists": 0.08334130048751831
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "rotate_1deg",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.026456240564584732,
+  "dists": 0.048602283000946045
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "rotate_2deg",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.03785282373428345,
+  "dists": 0.07242298126220703
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "rotate_5deg",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.07364256680011749,
+  "dists": 0.11072409152984619
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "drop_25pct",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.08152341097593307,
+  "dists": 0.11897385120391846
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "drop_50pct",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.15016090869903564,
+  "dists": 0.19934284687042236
+ },
+ {
+  "reference": "syn:2_37",
+  "condition": "drop_75pct",
+  "ink_density": 0.0186309814453125,
+  "lpips": 0.213441401720047,
+  "dists": 0.31670355796813965
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "perfect_copy",
+  "ink_density": 0.014404296875,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "blank_canvas",
+  "ink_density": 0.014404296875,
+  "lpips": 0.6193709373474121,
+  "dists": 0.3871748447418213
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "wrong_drawing",
+  "ink_density": 0.014404296875,
+  "lpips": 0.3823574185371399,
+  "dists": 0.36386585235595703
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "random_scribble",
+  "ink_density": 0.014404296875,
+  "lpips": 0.609649658203125,
+  "dists": 0.377197802066803
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "shift_1px",
+  "ink_density": 0.014404296875,
+  "lpips": 0.08464972674846649,
+  "dists": 0.0854034423828125
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "shift_2px",
+  "ink_density": 0.014404296875,
+  "lpips": 0.10160480439662933,
+  "dists": 0.08095419406890869
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "shift_5px",
+  "ink_density": 0.014404296875,
+  "lpips": 0.14266297221183777,
+  "dists": 0.09199845790863037
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "shift_10px",
+  "ink_density": 0.014404296875,
+  "lpips": 0.30016887187957764,
+  "dists": 0.0893588662147522
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "rotate_1deg",
+  "ink_density": 0.014404296875,
+  "lpips": 0.05860590934753418,
+  "dists": 0.08231908082962036
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "rotate_2deg",
+  "ink_density": 0.014404296875,
+  "lpips": 0.11297181993722916,
+  "dists": 0.1392202377319336
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "rotate_5deg",
+  "ink_density": 0.014404296875,
+  "lpips": 0.19325709342956543,
+  "dists": 0.20370817184448242
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "drop_25pct",
+  "ink_density": 0.014404296875,
+  "lpips": 0.20142506062984467,
+  "dists": 0.18529021739959717
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "drop_50pct",
+  "ink_density": 0.014404296875,
+  "lpips": 0.287484347820282,
+  "dists": 0.23579102754592896
+ },
+ {
+  "reference": "syn:3_38",
+  "condition": "drop_75pct",
+  "ink_density": 0.014404296875,
+  "lpips": 0.34367984533309937,
+  "dists": 0.28221434354782104
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "perfect_copy",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.0,
+  "dists": 1.1920928955078125e-07
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "blank_canvas",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.5310043096542358,
+  "dists": 0.5061250925064087
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "wrong_drawing",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.7993374466896057,
+  "dists": 0.5907843112945557
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "random_scribble",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.5741062164306641,
+  "dists": 0.3105335831642151
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "shift_1px",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.027803175151348114,
+  "dists": 0.059852659702301025
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "shift_2px",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.04013767093420029,
+  "dists": 0.06803524494171143
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "shift_5px",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.08664465695619583,
+  "dists": 0.08120852708816528
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "shift_10px",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.16540637612342834,
+  "dists": 0.08516693115234375
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "rotate_1deg",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.012411186471581459,
+  "dists": 0.0288851261138916
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "rotate_2deg",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.018586736172437668,
+  "dists": 0.04916059970855713
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "rotate_5deg",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.03596494346857071,
+  "dists": 0.09052908420562744
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "drop_25pct",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.060209281742572784,
+  "dists": 0.12116467952728271
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "drop_50pct",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.12230591475963593,
+  "dists": 0.19711506366729736
+ },
+ {
+  "reference": "syn:4_39",
+  "condition": "drop_75pct",
+  "ink_density": 0.011138916015625,
+  "lpips": 0.20349496603012085,
+  "dists": 0.31000012159347534
+ }
+]

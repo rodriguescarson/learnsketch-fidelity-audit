@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: >-
+  Reproduction code for "Fidelity Assessment for Digital Sketching:
+  Why SSIM Fails on Line Art, and What to Use Instead"
+message: If you use this software, please cite it as below.
+type: software
+authors:
+  - given-names: Carson
+    family-names: Rodrigues
+    affiliation: Celabe
+    email: carson@celabe.com
+  - given-names: Siddhant
+    family-names: Desai
+    affiliation: Simplit Software Solutions Pvt. Ltd.
+  - given-names: Amey
+    family-names: Kerkar
+    affiliation: Don Bosco College of Engineering
+  - given-names: Yeshudas
+    family-names: Muttu
+    affiliation: Don Bosco College of Engineering
+  - given-names: Nihal
+    family-names: Kamat
+    affiliation: Trellissoft, Inc.
+  - given-names: Ritika
+    family-names: Ghanti
+    affiliation: Cramer America, Inc.
+  - given-names: Saish
+    family-names: Pawar
+    affiliation: Oneshield
+license: MIT
+keywords:
+  - image quality assessment
+  - structural similarity
+  - SSIM
+  - line art
+  - sketch fidelity
+  - intersection over union

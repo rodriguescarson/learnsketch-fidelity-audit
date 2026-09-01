@@ -1,0 +1,63 @@
+{
+ "label_provenance": "Conditions are labelled a priori by how they were generated, not by any human judgement of the rendered image and not by any metric score. No labeller saw the scores because no labeller was involved.",
+ "auc_variants": {
+  "headline": {
+   "ssim": 0.7656476002629848,
+   "iou": 0.9837146614069691,
+   "n_pos": 390,
+   "n_neg": 195
+  },
+  "no_perfect_copy": {
+   "ssim": 0.7192899408284024,
+   "iou": 0.9809704142011835,
+   "n_pos": 325,
+   "n_neg": 195
+  },
+  "middle_as_acceptable": {
+   "ssim": 0.7074950690335305,
+   "iou": 0.9517410794333871,
+   "n_pos": 715,
+   "n_neg": 195
+  },
+  "middle_as_acceptable_no_perfect": {
+   "ssim": 0.6785009861932939,
+   "iou": 0.9471715976331361,
+   "n_pos": 650,
+   "n_neg": 195
+  }
+ },
+ "dilation_sweep": {
+  "1": {
+   "auc": 0.9855029585798817,
+   "auc_no_perfect": 0.9831163708086785,
+   "blank_iou": 0.0
+  },
+  "2": {
+   "auc": 0.9837146614069691,
+   "auc_no_perfect": 0.9809704142011835,
+   "blank_iou": 0.0
+  },
+  "3": {
+   "auc": 0.9824523339907956,
+   "auc_no_perfect": 0.9794556213017751,
+   "blank_iou": 0.0
+  },
+  "4": {
+   "auc": 0.9800723208415516,
+   "auc_no_perfect": 0.9765996055226824,
+   "blank_iou": 0.0
+  },
+  "5": {
+   "auc": 0.9788888888888889,
+   "auc_no_perfect": 0.9751794871794872,
+   "blank_iou": 0.0
+  }
+ },
+ "iou_beats_ssim_at_radii": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}

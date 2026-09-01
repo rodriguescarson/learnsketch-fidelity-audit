@@ -1,0 +1,41 @@
+[
+ {
+  "case": "flower",
+  "reported_pct": 97.95,
+  "ssim_AB": 77.23371625841196,
+  "ssim_A_blank": 62.57407800217312,
+  "ssim_A_scribbleshift": 50.27016249767995,
+  "ssim_A_rot5": 50.71497467717748,
+  "ink_pct": 10.315099265375508,
+  "iou_AB": 0.71409200968523,
+  "iou_A_blank": 0.0,
+  "dice_AB": 0.8332014916939767,
+  "chamfer_AB": 1.846268892288208
+ },
+ {
+  "case": "square",
+  "reported_pct": 98.72,
+  "ssim_AB": 98.26937885359892,
+  "ssim_A_blank": 82.54618137255339,
+  "ssim_A_scribbleshift": 70.57304440835523,
+  "ssim_A_rot5": 77.03289657840232,
+  "ink_pct": 6.583846944016436,
+  "iou_AB": 0.9994288977727013,
+  "iou_A_blank": 0.0,
+  "dice_AB": 0.9997143673236218,
+  "chamfer_AB": 0.05948777496814728
+ },
+ {
+  "case": "circle",
+  "reported_pct": 93.11,
+  "ssim_AB": 79.20880326579618,
+  "ssim_A_blank": 54.8397863428967,
+  "ssim_A_scribbleshift": 34.40276517378614,
+  "ssim_A_rot5": 55.70539147838738,
+  "ink_pct": 16.775190739279136,
+  "iou_AB": 0.8677496038034865,
+  "iou_A_blank": 0.0,
+  "dice_AB": 0.9291926519876119,
+  "chamfer_AB": 0.350656121969223
+ }
+]
