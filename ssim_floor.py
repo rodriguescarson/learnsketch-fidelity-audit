@@ -41,7 +41,7 @@ warnings.filterwarnings("ignore")
 SEED = 20260801
 RESULTS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "results")
 
-# Canny thresholds. The manuscript does not report its own (audit finding 11),
+# Canny thresholds. The manuscript does not report its own,
 # so we use the common OpenCV defaults and report them.
 CANNY_LO, CANNY_HI = 100, 200
 CANVAS = 256          # all references resized to CANVAS x CANVAS

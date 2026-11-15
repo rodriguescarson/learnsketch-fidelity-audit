@@ -17,7 +17,7 @@ import numpy as np
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 RESULTS = os.path.join(HERE, "results")
-OUT = os.path.join(HERE, os.pardir, "latex", "figures", "fig6-ssim-floor.png")
+OUT = os.path.join(HERE, "results", "fig6-ssim-floor.png")
 
 LABEL = {
     "perfect_copy": "Perfect copy",

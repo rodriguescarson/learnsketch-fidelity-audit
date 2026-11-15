@@ -38,7 +38,7 @@ from ssim_floor import CANNY_HI, CANNY_LO, CANVAS, _to_gray_square
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 RESULTS = os.path.join(HERE, "results")
-FIGDIR = os.path.join(HERE, "..", "latex", "figures")
+FIGDIR = os.path.join(HERE, "results")
 
 REPS = 50          # timed repetitions per image per operator
 WARMUP = 5         # discarded, so library init is not charged to the first operator
@@ -165,7 +165,7 @@ def main():
         for name, f in OPS.items():
             cv2.imwrite(os.path.join(FIGDIR, f"tab1n-{name.lower()}.png"), f(g))
         print(f"\nre-rendered 4 operator panels at {w}x{h} "
-              f"(source aspect {w0/h0:.3f}) into latex/figures/")
+              f"(source aspect {w0/h0:.3f}) into results/")
 
     # ---- figure ------------------------------------------------------------
     try:
@@ -186,7 +186,7 @@ def main():
         fig.tight_layout()
         fig.savefig(os.path.join(RESULTS, "figure_edge.png"), dpi=400)
         fig.savefig(os.path.join(FIGDIR, "fig4-edge-benchmark.png"), dpi=400)
-        print("wrote figure_edge.png and latex/figures/fig4-edge-benchmark.png")
+        print("wrote results/figure_edge.png and results/fig4-edge-benchmark.png")
     except Exception as e:                                # noqa: BLE001
         print(f"(figure skipped: {e})")
 

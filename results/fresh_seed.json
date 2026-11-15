@@ -1,0 +1,111 @@
+{
+ "frozen": "window 7, dilation 2 px, Canny 100/200, 256 px, acceptable set unchanged",
+ "photograph_edge_maps": "same 25 images as the main run",
+ "seeds": {
+  "20261031": {
+   "n_refs": 65,
+   "ssim": {
+    "auc_pooled": 0.7661867192636423,
+    "auc_within_ref": 0.8816239316239316,
+    "inversions_k": {
+     "shift_2px": 60,
+     "wrong_drawing": 63,
+     "random_scribble": 63
+    }
+   },
+   "iou": {
+    "auc_pooled": 0.983543721236029,
+    "auc_within_ref": 0.9952991452991453,
+    "inversions_k": {
+     "shift_2px": 0,
+     "wrong_drawing": 0,
+     "random_scribble": 0
+    }
+   }
+  },
+  "20261101": {
+   "n_refs": 65,
+   "ssim": {
+    "auc_pooled": 0.7687771203155819,
+    "auc_within_ref": 0.8841880341880342,
+    "inversions_k": {
+     "shift_2px": 60,
+     "wrong_drawing": 63,
+     "random_scribble": 64
+    }
+   },
+   "iou": {
+    "auc_pooled": 0.9835831689677843,
+    "auc_within_ref": 0.9952991452991453,
+    "inversions_k": {
+     "shift_2px": 0,
+     "wrong_drawing": 0,
+     "random_scribble": 0
+    }
+   }
+  },
+  "20261102": {
+   "n_refs": 65,
+   "ssim": {
+    "auc_pooled": 0.7728007889546351,
+    "auc_within_ref": 0.8807692307692307,
+    "inversions_k": {
+     "shift_2px": 61,
+     "wrong_drawing": 63,
+     "random_scribble": 63
+    }
+   },
+   "iou": {
+    "auc_pooled": 0.9835831689677843,
+    "auc_within_ref": 0.9952991452991453,
+    "inversions_k": {
+     "shift_2px": 0,
+     "wrong_drawing": 0,
+     "random_scribble": 0
+    }
+   }
+  },
+  "20261103": {
+   "n_refs": 65,
+   "ssim": {
+    "auc_pooled": 0.7743129520052597,
+    "auc_within_ref": 0.8799145299145299,
+    "inversions_k": {
+     "shift_2px": 61,
+     "wrong_drawing": 63,
+     "random_scribble": 64
+    }
+   },
+   "iou": {
+    "auc_pooled": 0.9835700197238659,
+    "auc_within_ref": 0.9952991452991453,
+    "inversions_k": {
+     "shift_2px": 0,
+     "wrong_drawing": 0,
+     "random_scribble": 0
+    }
+   }
+  },
+  "20261104": {
+   "n_refs": 65,
+   "ssim": {
+    "auc_pooled": 0.763214990138067,
+    "auc_within_ref": 0.8841880341880342,
+    "inversions_k": {
+     "shift_2px": 60,
+     "wrong_drawing": 63,
+     "random_scribble": 63
+    }
+   },
+   "iou": {
+    "auc_pooled": 0.9836226166995398,
+    "auc_within_ref": 0.9952991452991453,
+    "inversions_k": {
+     "shift_2px": 0,
+     "wrong_drawing": 0,
+     "random_scribble": 0
+    }
+   }
+  }
+ }
+}

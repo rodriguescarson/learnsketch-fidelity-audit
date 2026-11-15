@@ -24,6 +24,16 @@ python3 replicate_paper.py   # the manuscript's own three test figures
 python3 robustness.py        # dilation sweep + sensitivity checks
 ```
 
+Added in version 1.1 (run after the scripts above):
+
+```bash
+python3 extra_metrics.py     # SSIM on dilated and blurred maps, MS-SSIM, MSE; Canny and size sweeps
+python3 crop_and_masked.py   # re-implemented bounding-box crop; SSIM over inked windows only
+python3 fresh_seed.py        # five fresh generator seeds with settings frozen
+python3 camera_numbers.py    # counts, Wilson and bootstrap intervals, ties, duplicates, per-half AUCs
+python3 -m unittest discover -s tests -v   # 18 hand-checked scorer cases
+```
+
 Run `learned_metrics.py` before `analyze.py` and the AUC table gains LPIPS and DISTS
 automatically; rows join on `(reference, condition)` because both scripts walk the same seeded
 corpus in the same order.
@@ -90,6 +100,14 @@ Two traps recorded so nobody repeats them:
   square reproduces to within 0.45 points; the flower and circle differ by about 20, because the
   crop and scale-normalisation the application applied cannot be recovered from the panels. The
   audit does not depend on those three numbers, since it runs on the 65-reference corpus instead.
+
+## Version history
+
+- **1.1** (2026-11-15): adds `extra_metrics.py`, `crop_and_masked.py`, `fresh_seed.py`,
+  `camera_numbers.py` and their outputs in `results/`, the scorer tests in `tests/`, and
+  `EXPERIMENT-LOG.md`. The version 1.0 scripts and stored results are unchanged except for
+  docstrings and output paths (figures are now written inside `results/`).
+- **1.0** (2026-09-01): the harness, per-pair scores and figures behind the submitted paper.
 
 ## Limitation, stated plainly
 
