@@ -9,24 +9,31 @@ authors:
     family-names: Rodrigues
     affiliation: Celabe
     email: carson@celabe.com
+    orcid: "https://orcid.org/0009-0001-7195-6742"
   - given-names: Siddhant
     family-names: Desai
     affiliation: Simplit Software Solutions Pvt. Ltd.
+    orcid: "https://orcid.org/0009-0007-9205-1161"
   - given-names: Amey
     family-names: Kerkar
     affiliation: Don Bosco College of Engineering
+    orcid: "https://orcid.org/0009-0003-9426-6749"
   - given-names: Yeshudas
     family-names: Muttu
     affiliation: Don Bosco College of Engineering
+    orcid: "https://orcid.org/0009-0003-0350-7069"
   - given-names: Nihal
     family-names: Kamat
     affiliation: Trellissoft, Inc.
+    orcid: "https://orcid.org/0009-0005-5178-8971"
   - given-names: Ritika
     family-names: Ghanti
     affiliation: Cramer America, Inc.
+    orcid: "https://orcid.org/0009-0009-9445-3038"
   - given-names: Saish
     family-names: Pawar
     affiliation: Oneshield
+    orcid: "https://orcid.org/0009-0001-2597-451X"
 license: MIT
 keywords:
   - image quality assessment
