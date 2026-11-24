@@ -5,7 +5,8 @@ scikit-image==0.24.0
 matplotlib==3.9.4
 
 # learned_metrics.py only. Fetches pretrained weights on first run.
-torch==2.8.0
-torchvision==0.23.0
+# torch/torchvision bumped 2.8.0/0.23.0 -> 2.13.0/0.28.0 on 2026-11-24 for security advisories; the reported learned-metric numbers were produced on the older pair, re-run before quoting.
+torch==2.13.0
+torchvision==0.28.0
 lpips==0.1.4
 piq==0.8.0
